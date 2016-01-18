@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="Livestock_Heath_Wells">
+
+	<obj name="Bull01"
+			guid="1AE9E0D54D457542397A9CB7F707595F"
+			image="Livestock_Heath_Wells\Bull01.jpg"/>
+
+	<obj name="Bull02"
+			guid="752AD2794AB488EFDF20D8AA6D806941"
+			image="Livestock_Heath_Wells\Bull02.jpg"/>
+
+	<obj name="Bull_Front01"
+			guid="E29E1A34419E9D1A6A6C689C8AC271D4"
+			image="Livestock_Heath_Wells\Bull_Front01.jpg"/>
+
+	<obj name="Bull_Front02"
+			guid="3C3309C44967D423689F74B981E01ECA"
+			image="Livestock_Heath_Wells\Bull_Front02.jpg"/>
+
+	<obj name="Cow01"
+			guid="1696045A4F4CD2DE0B040BADD04C5165"
+			image="Livestock_Heath_Wells\Cow01.jpg"/>
+
+	<obj name="Cow02"
+			guid="614FDFA244CA8141332EEEA3F471C2C6"
+			image="Livestock_Heath_Wells\Cow02.jpg"/>
+
+	<obj name="Cow03"
+			guid="29F410B14DB757B91FCDF19CD2CA2EE0"
+			image="Livestock_Heath_Wells\Cow03.jpg"/>
+
+	<obj name="Cow04"
+			guid="14842E5B4DBEF4EE0E3B0695EDE0BF90"
+			image="Livestock_Heath_Wells\Cow04.jpg"/>
+
+	<obj name="Cow05"
+			guid="2706CC0844D0729B871306BB8679BF13"
+			image="Livestock_Heath_Wells\Cow05.jpg"/>
+
+	<obj name="Cow06"
+			guid="EFA549354B168C3D10681A860442572F"
+			image="Livestock_Heath_Wells\Cow06.jpg"/>
+
+	<obj name="Deer01"
+			guid="87918C1C43F4500840413DBD8898B1A9"
+			image="Livestock_Heath_Wells\Deer01.jpg"/>
+
+	<obj name="Duck01"
+			guid="763DEE764E8B4931BDC9ECA53169B3E6"
+			image="Livestock_Heath_Wells\Duck01.jpg"/>
+
+	<obj name="Horse01"
+			guid="D259091943B6100AFE85C8B65EEB0511"
+			image="Livestock_Heath_Wells\Horse01.jpg"/>
+
+	<obj name="Horse02"
+			guid="5F6557B1420EA85EE16226AC79ADA6DC"
+			image="Livestock_Heath_Wells\Horse02.jpg"/>
+
+	<obj name="Horse03"
+			guid="17A963554F3B6D80FEE5B9B270C82743"
+			image="Livestock_Heath_Wells\Horse03.jpg"/>
+
+	<obj name="Sheep01"
+			guid="F6959A3B487FEBBC43C8F58BA8ABC6B6"
+			image="Livestock_Heath_Wells\Sheep01.jpg"/>
+
+	<obj name="Sheep02"
+			guid="B4B65A0C4715FA18F29B7BB0D8129311"
+			image="Livestock_Heath_Wells\Sheep02.jpg"/>
+
+	<obj name="Sheep03"
+			guid="F5890C464E3B830BDF734295AB39F066"
+			image="Livestock_Heath_Wells\Sheep03.jpg"/>
+
+	<obj name="Sheep04"
+			guid="ED0ACB014D78D7D2E3423787B0EC6930"
+			image="Livestock_Heath_Wells\Sheep04.jpg"/>
+
+	<obj name="Sheep_Front01"
+			guid="773488D8413599CE495FED8205BA1A18"
+			image="Livestock_Heath_Wells\Sheep_Front01.jpg"/>
+
+	<obj name="Sheepdog01"
+			guid="26515A814E4ED54609CC5587150E59B7"
+			image="Livestock_Heath_Wells\Sheepdog01.jpg"/>
+
+	<obj name="Fence Panel 6m"
+			guid="E64189204B7B0F86BE6B67A34A81A4E4"
+			image="Livestock_Heath_Wells\Fence_6m.jpg"/>
+
+	<obj name="Fence Panel 13m"
+			guid="C63777A64938B8A66894409A0577BE74"
+			image="Livestock_Heath_Wells\Fence_13m.jpg"/>
+
+	<obj name="Fence Panel 26m"
+			guid="AB868BA94138DF6B98D4A5B2AAA732D3"
+			image="Livestock_Heath_Wells\Fence_26m.jpg"/>
+
+	<obj name="Fence Panel 52m"
+			guid="7FD32CBE4C4A11A0598981B9078389FA"
+			image="Livestock_Heath_Wells\Fence_52m.jpg"/>
+
+	<obj name="Fence Panel 104m"
+			guid="E9824E9B4AAA990E4485DD839D704F0E"
+			image="Livestock_Heath_Wells\Fence_104m.jpg"/>
+
+	<obj name="Fence Panel With Posts 6m"
+			guid="4EDBDFE6425D66928B77D3A6E9BF122C"
+			image="Livestock_Heath_Wells\Fence_6m_post.jpg"/>
+
+	<obj name="Fence Panel With Posts 13m"
+			guid="8D299ADB422042BA8782748FEE345BC6"
+			image="Livestock_Heath_Wells\Fence_13m_post.jpg"/>
+
+	<obj name="Fence Panel With Posts 26m"
+			guid="3F556B1342E2245B763EAB8FF6E9E8A9"
+			image="Livestock_Heath_Wells\Fence_26m_post.jpg"/>
+
+	<obj name="Fence Panel With Posts 52m"
+			guid="A5CF781B4DCE586C853C698CBFD15484"
+			image="Livestock_Heath_Wells\Fence_52m_post.jpg"/>
+
+	<obj name="Fence Panel With Posts 104m"
+			guid="EF51BDC74BED3B47253B399B63104BA6"
+			image="Livestock_Heath_Wells\Fence_104m_post.jpg"/>
+
+	<obj name="Gate With Posts 3m"
+			guid="8BB9FD844E1A6CEBDF0B3EA6AB0ED2E5"
+			image="Livestock_Heath_Wells\Gate_3m_post.jpg"/>
+
+</category>
+</objectsLibrary>	

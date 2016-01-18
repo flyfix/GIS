@@ -1,0 +1,68 @@
+xxxxxxxxxxxxxxxxxx  Please turn Format\Word Wrap on  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+dwags Hangers  for FS2004 version1 by Dennis Waggoner
+Library for users of Rwy12 Object Placer V1.0 (Rwy12_v1.zip)
+xxxxxxxxxxxxxxxxxx
+
+This is a library of 9 animated hangers and 9 static hangers of the same
+
+All the animated hangers have a sign on the front of the Hanger that says 
+
+Tune Nav2 / XXX.XX 
+   for Attendent
+
+This is the frequence needed to open the doors. It can take up to five or ten seconds for the doors to open. In addition all the hangers have a static version that can be used for scenery and all are night lighted for excellent effect.
+
+
+This library of animated hangers would simply NOT BE POSSIBLE without the use of Arno Gerretsen's wonderful Conditional Animation Tool "CAT" and my thanks goes out to him for making this possible. 
+
+
+The GUID numbers were randomly created using gmax and hopefully the chances of a conflict are nil
+
+
+Installation
+============
+1. Open the zip file to a folder of your choice but not Rwy12 and FS9. Read this document.
+
+2. Move file [add_dwag_hangers.xml] to C:\Rwy12 Object Placer\Rwy12 folder. Check that it appears there with the other add_ files
+
+3. Move the entire [dwag_hangers] folder, with its 20 preview images to C:\Rwy12 Object Placer\Rwy12\img folder. Check that it appears there with the other img libraries. You should then have a subfolder in you img folder called dwag_hangers 
+
+4. Move the [add_dwag_hangers.bgl] file from the scenery folder (only the file, not the folder) to  your X:\Program Files\Microsoft Games\Flight Simulator 9\Addon Scenery\Static Objects Library\Scenery folder.
+
+5. Move the 44 BMP files from the  texture folder  (only the files, not the folder) to your X:\Program Files\Microsoft Games\Flight Simulator 9\Addon Scenery\Static Objects Library\Texture folder.
+
+
+
+Extras and tips
+
+In the extra folder there is a bgl file that can be placed into your r12 scenery folder(X:\Program Files\Microsoft Games\Flight Simulator 9\Addon Scenery\Static Objects Library\Scenery folder) this will place all of the hangers found in this library at kbmg Bloomington Indiana
+
+
+
+====TIP====
+
+To accurately place the objects you need to slow down your slew speed. By changing the following lines in the FS9.cfg file you can do this 
+
+[SLEW]
+MaxLateralRate=1000
+MaxVerticalRate=1000
+MaxPitchRate=1000
+MaxBankRate=1000
+MaxHeadingRate=100
+
+These settings work for me you may adjust accordingly to suit your needs.
+
+=========================================================================
+
+I finally cracked the multimaterial texturing puzzle in GMax and then the doors opened up. Gmax is so much better that FSDSv2 and I am excited about the future possibilitys with it. Combined with Rny12 the future of scenery design in Flight Simulator is sealed and the possiblities are endless. 
+
+
+Thank you Rwy12 Team
+
+Regards 
+Dennis Waggoner
+February 13,2005
+
+spm@wagsterstuff.com
+

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="Birds - S. Kahn">
+
+	<obj name="Canadian goose - Flat Wings"
+			guid="EA4CD3AD43F47334F9FFCDB18CC477A2"
+			image="Birds - S. Kahn\geese_flock_1.jpg"/>
+
+	<obj name="Canadian goose - Wings Up"
+			guid="AFE2F274413159ABBD709FA46377BFC8"
+			image="Birds - S. Kahn\geese_flock_2.jpg"/>
+
+	<obj name="Canadian goose - Wings Down"
+			guid="E96EF6274728A5245D2504B481E3C51A"
+			image="Birds - S. Kahn\geese_flock_3.jpg"/>	
+
+	<obj name="Bold Eagle - Wings Up"
+			guid="B7FF81F244FFF9F0CD191B9B1054A33F"
+			image="Birds - S. Kahn\BoldEagle_1.jpg"/>
+
+	<obj name="Bold Eagle - Wings Down"
+			guid="1FFD4E5D44D318016C95EDB41D3686BA"
+			image="Birds - S. Kahn\BoldEagle_2.jpg"/>
+
+	<obj name="Bold Eagle - Catching Fish"
+			guid="6022C71D4BAFFBD36A5F4BA5137878E9"
+			image="Birds - S. Kahn\BoldEagle_3.jpg"/>
+
+	<obj name="Stork - Flat Wings"
+			guid="C37EC406423C11559EA977B5141DE75B"
+			image="Birds - S. Kahn\Stork_1.jpg"/>
+
+	<obj name="Stork - Wings Up"
+			guid="72814E394DF572AB26621693680B80DB"
+			image="Birds - S. Kahn\Stork_2.jpg"/>
+
+	<obj name="Stork - Wings Down"
+			guid="F6770B17421125C45DCA8D87ACCCAA34"
+			image="Birds - S. Kahn\Stork_3.jpg"/>	
+
+	<obj name="Stork on Nest"
+			guid="79F0A930473FD3DB9D08BA9ECE21DAE5"
+			image="Birds - S. Kahn\Stork_5.jpg"/>
+
+	<obj name="Stork Standing"
+			guid="EC9EA1074888C94DE5183E81BEAC2827"
+			image="Birds - S. Kahn\Stork_6.jpg"/>
+
+	<obj name="Golden Eagle - Flat Wings"
+			guid="6389767E450216AB0252BB9F2633E1AD"
+			image="Birds - S. Kahn\Golden_Eagle_1.jpg"/>
+
+	<obj name="Golden Eagle - Wings Up"
+			guid="FB2074644E2653CA91C71F8B6138C72E"
+			image="Birds - S. Kahn\Golden_Eagle_2.jpg"/>
+
+	<obj name="Golden Eagle - Wings Down"
+			guid="0A703E8749E20BBB5A1ED58BEF08915F"
+			image="Birds - S. Kahn\Golden_Eagle_3.jpg"/>
+
+	<obj name="Falcon - Flat Wings"
+			guid="C90D12BD41202EB6ED8464A4C8EDDCB5"
+			image="Birds - S. Kahn\Falcon_1.jpg"/>
+
+	<obj name="Falcon - Wings Up"
+			guid="6113743C42C46429328D27A8572AF559"
+			image="Birds - S. Kahn\Falcon_2.jpg"/>
+
+	<obj name="Falcon - Wings Down"
+			guid="A72E4BEA41C8C0BFF3860E950FFD9901"
+			image="Birds - S. Kahn\Falcon_3.jpg"/>
+
+	<obj name="Birds of Prey in Thermals"
+			guid="66C6B1654EC821CEBFE236B7A9C1E58D"
+			image="Birds - S. Kahn\Thermals_2.jpg"/>
+
+	<obj name="Canadian geese Flock V Formation"
+			guid="E8D413BB4996D7896686F9A1DAE2CAB2"
+			image="Birds - S. Kahn\geese_flock_4.jpg"/>
+
+	<obj name="Storks in Thermals"
+			guid="DADB28A34A4E2D4A098E85A8FD2C19B6"
+			image="Birds - S. Kahn\Stork_4.jpg"/>
+
+
+</category>
+</objectsLibrary>	

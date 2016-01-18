@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="dwag_hangers">
+
+	<obj name="Acuair Static Hanger"
+			guid="3E9E35934F05C7AD973859BE02771442"
+	     		image="dwag_hangers\acuair_pv.jpg"/>	
+        <obj name="Acuair Animated Hanger"
+			guid="BBFF743048724758CE980FAAB620B839"
+	     		image="dwag_hangers\acuair_ani_pv.jpg"/>
+
+
+	<obj name="Bluehanger Static Hanger"
+			guid="C704C57D48B7B2D965DB2F92B0C85660"
+	     		image="dwag_hangers\bluehanger_pv.jpg"/>	
+        <obj name="Bluehanger Animated Hanger"
+			guid="281B7D3043EE6075E7188A8C69C06170"
+	     		image="dwag_hangers\bluehanger_ani_pv.jpg"/>
+
+
+	<obj name="BrownHanger Static Hanger"
+			guid="113D097F465ADBD0D75229A2DC4AD5AA"
+	     		image="dwag_hangers\BrownHanger_pv.jpg"/>	
+        <obj name="BrownHanger Animated Hanger"
+			guid="50A2E05146EA3943FFE33D8A1E8B6E13"
+ 		image="dwag_hangers\BrownHanger_ani_pv.jpg"/>
+
+
+	<obj name="GreenHanger Static Hanger"
+			guid="6A6FF8C44D590EE11C4F12A0E0C62FA9"
+	     		image="dwag_hangers\GreenHanger_pv.jpg"/>	
+        <obj name="GreenHanger Animated Hanger"
+			guid="1156632442E5437F04AE1D9F82DABCFB"
+	     		image="dwag_hangers\GreenHanger_ani_pv.jpg"/>
+
+
+	<obj name="MemonMission Static Hanger"
+			guid="AAD82419403F5F96262EE38FDC8128FC"
+	     		image="dwag_hangers\MemonMission_pv.jpg"/>	
+        <obj name="MemonMission Animated Hanger"
+			guid="CCEA2B11498F9B8EC8281490C42EED5B"
+	     		image="dwag_hangers\MemonMission_ani_pv.jpg"/>
+
+
+	<obj name="OasAir Static Hanger"
+			guid="1EAAE1EC4C3DD7706784AAA6E85E84FA"
+	     		image="dwag_hangers\OasAir_pv.jpg"/>	
+        <obj name="OasAir Animated Hanger"
+			guid="E05366D940170F97434F059C955B6AB7"
+	     		image="dwag_hangers\OasAir_ani_pv.jpg"/>
+
+
+	<obj name="Redhanger Static Hanger"
+			guid="ED8EC0BE4AC17CDCAC31138516DF9ABB"
+	     		image="dwag_hangers\Redhanger_pv.jpg"/>	
+        <obj name="Redhanger Animated Hanger"
+			guid="8467087C491409ECA7DE3E803CC1BDD5"
+	     		image="dwag_hangers\Redhanger_ani_pv.jpg"/>
+
+
+	<obj name="Redroofhanger Static Hanger"
+			guid="DB38D00C4E40CC14CA90F08C8BFA8383"
+	     		image="dwag_hangers\Redroofhanger_pv.jpg"/>	
+        <obj name="Redroofhanger Animated Hanger"
+			guid="977B1AB044721FE589EC3C8E4E149781"
+	     		image="dwag_hangers\Redroofhanger_ani_pv.jpg"/>
+
+
+	<obj name="UtilityHanger Static Hanger"
+			guid="FDD900C94683AAD68C5FFC9D6B25ECD4"
+	     		image="dwag_hangers\UtilityHanger_pv.jpg"/>	
+        <obj name="UtilityHanger Animated Hanger"
+			guid="67D2C6D54A368BB1E10588AF930E4A81"
+	     		image="dwag_hangers\UtilityHanger_ani_pv.jpg"/>
+
+
+</category>
+</objectsLibrary>	

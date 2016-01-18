@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="Humans - S. Kahn">
+
+	<obj name="Belly Dancer"
+			guid="94CC1D974E9A4A804CECEA992129EB86"
+			image="Humans - Seev Kahn\Belly_Dancer.jpg"/>
+
+	<obj name="Ground Crew 1"
+			guid="8C9957554D92CB3F313E1AAD180DF8B9"
+			image="Humans - Seev Kahn\Ground_Crew_1.jpg"/>
+
+	<obj name="Passangers 1"
+			guid="9855C14D4C7C2B8F75A2A7845E21B9A1"
+			image="Humans - Seev Kahn\Passangers_1.jpg"/>			
+
+
+</category>
+</objectsLibrary>	

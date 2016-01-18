@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="JonPatch_objects_2">
+
+	<obj name="boat_cradle"
+			guid="A8AA178C19ACE7926F9DB82B65518B98"
+			image="JonPatch_objects_2\boat_cradle.jpg"/>
+        
+        <obj name="fenced_area"
+			guid="A8AA178C19ACE7926F9DB82B65518B99"
+			image="JonPatch_objects_2\fenced_area.jpg"/>
+
+	<obj name="fenced_area01"
+			guid="A8AA178C19ACE7926F9DB82B65518B9A"
+			image="JonPatch_objects_2\fenced_area01.jpg"/>
+        
+        <obj name="fenced_area02"
+			guid="A8AA178C19ACE7926F9DB82B65518B9B"
+			image="JonPatch_objects_2\fenced_area02.jpg"/>
+
+	<obj name="harbor_bouy_green"
+			guid="A8AA178C19ACE7926F9DB82B65518B9C"
+			image="JonPatch_objects_2\harbor_bouy_green.jpg"/>
+        
+        <obj name="harbor_bouy_red"
+			guid="A8AA178C19ACE7926F9DB82B65518B9D"
+			image="JonPatch_objects_2\harbor_bouy_red.jpg"/>
+
+	<obj name="lightpole_helijet"
+			guid="A8AA178C19ACE7926F9DB82B65518B9E"
+			image="JonPatch_objects_2\lightpole_helijet_JP.jpg"/>
+        
+        <obj name="lightpole_med"
+			guid="A8AA178C19ACE7926F9DB82B65518B9F"
+			image="JonPatch_objects_2\lightpole_med_JP.jpg"/>
+
+	<obj name="lightpole_shorter"
+			guid="A8AA178C19ACE7926F9DB82B65518BA0"
+			image="JonPatch_objects_2\lightpole_shorter_JP.jpg"/>
+        
+        <obj name="lightpole_tall"
+			guid="A8AA178C19ACE7926F9DB82B65518BA1"
+			image="JonPatch_objects_2\lightpole_tall_JP.jpg"/>
+
+        
+
+</category>
+</objectsLibrary>	

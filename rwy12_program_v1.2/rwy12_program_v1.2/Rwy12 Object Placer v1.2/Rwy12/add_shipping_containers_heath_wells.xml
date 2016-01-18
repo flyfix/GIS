@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="Shipping_Containers_Heath_Wells">
+
+	<obj name="Shipping Container Green"
+			guid="BD29286240A3BFCFA1E240A0070F0CD5"
+			image="Shipping_Containers_Heath_Wells\Shipping_Container_Green.jpg"/>
+
+	<obj name="Shipping Container Red"
+			guid="BF3BB9F9415B9D55C606AF947304FBCB"
+			image="Shipping_Containers_Heath_Wells\Shipping_Container_Red.jpg"/>
+
+	<obj name="Shipping Container Orange"
+			guid="30DD1B6F4DBFD42EAFB4E489528921E0"
+			image="Shipping_Containers_Heath_Wells\Shipping_Container_Orange.jpg"/>
+
+	<obj name="Shipping Container Gold"
+			guid="79AAD8C04D3BC9F493721FA338DC2E67"
+			image="Shipping_Containers_Heath_Wells\Shipping_Container_Gold.jpg"/>
+
+	<obj name="Shiping Container Silver"
+			guid="5401FD68471F2E48878AE9B1B3A3DB17"
+			image="Shipping_Containers_Heath_Wells\Shipping_Container_Silver.jpg"/>
+
+	<obj name="Shipping Container Blue"
+			guid="516B64B643455C940EDD61A10C2EFF7E"
+			image="Shipping_Containers_Heath_Wells\Shipping_Container_Blue.jpg"/>
+
+</category>
+</objectsLibrary>	

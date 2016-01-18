@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="ESDG Hanger Kit - B. Leaming">
+			
+
+	<obj name="ESDG Hanger"
+			guid="C5B8EA1B6517D088A8A93993C75976B1"
+				image="ESDG HangerKit - Bill Leaming\ESDG_Hanger.jpg"/>
+	<obj name="ESDG Office"
+			guid="C5B8EA1B6517D088A8A93993C75976B2"
+				image="ESDG HangerKit - Bill Leaming\ESDG_Office.jpg"/>
+	<obj name="ESDG House"
+			guid="C5B8EA1B6517D088A8A93993C75976B0"
+				image="ESDG HangerKit - Bill Leaming\ESDG_House.jpg"/>
+</category>
+</objectsLibrary>	

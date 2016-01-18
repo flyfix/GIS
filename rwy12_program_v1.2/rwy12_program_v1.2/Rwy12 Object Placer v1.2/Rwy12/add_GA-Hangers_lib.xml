@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="GA-Hangers_lib Stephen Legg">
+
+	<obj name="T-Hanger01 - Doors Closed"
+			guid="25795BB37358D9355A37260E55BC1F49"
+			image="GA-Hangers01 - S. Legg\T-hangerdoorsClsd.jpg"/>
+
+        <obj name="T-Hanger01 - Doors Half Open"
+			guid="25795BB37358D9355A37260E55BC1F4A"
+			image="GA-Hangers01 - S. Legg\T-hangerdoorsHO.jpg"/>
+
+	<obj name="T-Hanger01 - Doors Open"
+			guid="25795BB37358D9355A37260E55BC1F4B"
+			image="GA-Hangers01 - S. Legg\T-hangerdoorsopen.jpg"/>
+
+        <obj name="T-Hanger01 - Animated Doors"
+			guid="25795BB37358D9355A37260E55BC1F4C"
+			image="GA-Hangers01 - S. Legg\T-hangerdoorsAnimated.jpg"/>
+        
+        <obj name="T-Shelter01 - Covered Center Section "
+			guid="25795BB37358D9355A37260E55BC1F4D"
+			image="GA-Hangers01 - S. Legg\T-ShelterCCS.jpg"/>
+
+        <obj name="T-Shelter01 - Open "
+			guid="25795BB37358D9355A37260E55BC1F4E"
+			image="GA-Hangers01 - S. Legg\T-ShelterOpen.jpg"/>
+
+        <obj name="T-Hanger - Closed "
+ 			guid="25795BB37358D9355A37260E55BC1F4F"
+			image="GA-Hangers01 - S. Legg\T-hangerClosed.jpg"/>
+    
+        <obj name="Hanger - Closed"
+			guid="25795BB37358D9355A37260E55BC1F50"
+			image="GA-Hangers01 - S. Legg\HangerClosed.jpg"/>
+
+        <obj name="Oil Barrels"
+			guid="25795BB37358D9355A37260E55BC1F51"
+			image="GA-Hangers01 - S. Legg\Oil Barrels.jpg"/>
+
+        <obj name="Boxes on a Pallet"
+			guid="25795BB37358D9355A37260E55BC1F52"
+			image="GA-Hangers01 - S. Legg\Boxes.jpg"/>
+
+        <obj name="Single Barrel - Blue"
+			guid="25795BB37358D9355A37260E55BC1F53"
+			image="GA-Hangers01 - S. Legg\Oil Barrel Blue.jpg"/>
+
+        <obj name="Single Barrel - Brown"
+			guid="25795BB37358D9355A37260E55BC1F54"
+			image="GA-Hangers01 - S. Legg\Oil Barrel Brown.jpg"/>
+
+        <obj name="Single Barrel - Red"
+			guid="25795BB37358D9355A37260E55BC1F55"
+			image="GA-Hangers01 - S. Legg\Oil Barrel Red.jpg"/>
+
+        <obj name="GA-Hanger01 - Structure"
+			guid="25795BB37358D9355A37260E55BC1F56"
+			image="GA-Hangers01 - S. Legg\GA-Hanger01Structure.jpg"/>
+
+        <obj name="GA-Hanger - Objects"
+			guid="25795BB37358D9355A37260E55BC1F57"
+			image="GA-Hangers01 - S. Legg\GA-Hanger01Objects.jpg"/>
+
+</category>
+</objectsLibrary>	

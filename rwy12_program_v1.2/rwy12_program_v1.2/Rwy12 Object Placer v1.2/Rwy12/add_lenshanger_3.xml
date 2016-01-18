@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="Lens Hanger 3 - L.J.Hickman">
+<obj name="cabledrum_CW" guid="7472B9BA8975E767E45C449E6DBAA12A" image="Lens Hanger 3/Cable_drum_CW.jpg"/>
+<obj name="cabledrum_group" guid="7472B9BA8975E767E45C449E6DBAA12B" image="Lens Hanger 3/cable_drum_group.jpg"/>
+<obj name="cabledrum_nortel" guid="7472B9BA8975E767E45C449E6DBAA12C" image="Lens Hanger 3/cable_drum_nortel.jpg"/>
+<obj name="cabledrum_pirelli" guid="7472B9BA8975E767E45C449E6DBAA12D" image="Lens Hanger 3/cable_drum_pirelli.jpg"/>
+<obj name="cabledrum_topcable" guid="7472B9BA8975E767E45C449E6DBAA12E" image="Lens Hanger 3/cable_drum_topcable.jpg"/>
+<obj name="girl_on_lambretta" guid="7472B9BA8975E767E45C449E6DBAA12F" image="Lens Hanger 3/girl.jpg"/>
+<obj name="Lambretta_blue" guid="7472B9BA8975E767E45C449E6DBAA130" image="Lens Hanger 3/Lamblue.jpg"/>
+<obj name="Lambretta_red" guid="7472B9BA8975E767E45C449E6DBAA131" image="Lens Hanger 3/Lamred.jpg"/>
+<obj name="logs" guid="7472B9BA8975E767E45C449E6DBAA132" image="Lens Hanger 3/Len_logs_1.jpg"/>
+<obj name="man_at_toolchest" guid="7472B9BA8975E767E45C449E6DBAA133" image="Lens Hanger 3/workman_toolchest.jpg"/>
+<obj name="man_suit_walk" guid="7472B9BA8975E767E45C449E6DBAA134" image="Lens Hanger 3/man_suit_walk.jpg"/>
+<obj name="mom_child" guid="7472B9BA8975E767E45C449E6DBAA135" image="Lens Hanger 3/mum_and_child.jpg"/>
+<obj name="scaffold" guid="7472B9BA8975E767E45C449E6DBAA136" image="Lens Hanger 3/scaffold.jpg"/>
+<obj name="statue" guid="7472B9BA8975E767E45C449E6DBAA137" image="Lens Hanger 3/thinker.jpg"/>
+<obj name="workman1" guid="7472B9BA8975E767E45C449E6DBAA138" image="Lens Hanger 3/workman1.jpg"/>
+<obj name="workman2" guid="7472B9BA8975E767E45C449E6DBAA139" image="Lens Hanger 3/workman2.jpg"/>
+</category>
+</objectsLibrary>

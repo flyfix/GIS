@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="B747 - S Kahn">
+
+	<obj name="B747 KLM"
+			guid="80285BDF4897945A13ADFFA83DA50DBE"
+			image="B747 - S Kahn\B747_KLM.jpg"/>
+	
+	<obj name="B747 KLM Cargo Doors"
+			guid="1949CAFB42DACFA548D50C8543A142F5"
+			image="B747 - S Kahn\B747_KLM_Doors.jpg"/>	
+
+	<obj name="B747 LH"
+			guid="D4552DD74DA9C573005DD79C379DE331"
+			image="B747 - S Kahn\B747_LH.jpg"/>
+	
+	<obj name="B747 LH Cargo Doors"
+			guid="8623BB8140A4CE1E0F9687AB4C6D08EC"
+			image="B747 - S Kahn\B747_LH_Doors.jpg"/>
+
+	<obj name="B747 Northwest"
+			guid="38523FC34C549D4DF1CCD8B329CF50D2"
+			image="B747 - S Kahn\B747_NW.jpg"/>
+	
+	<obj name="B747 Northwest Cargo Doors"
+			guid="DA24EA3A4CFEB6AC2045828D499A0BFF"
+			image="B747 - S Kahn\B747_NW_Doors.jpg"/>
+
+	<obj name="B747 ELAL"
+			guid="82F9AA0D4B5F047422557687C236CA5F"
+			image="B747 - S Kahn\B747_ELAL.jpg"/>
+
+	<obj name="B747 ELAL Cargo Doors"
+			guid="29AE63C244241469C29C419BC5D209E2"
+			image="B747 - S Kahn\B747_ELAL_Doors.jpg"/>
+
+	<obj name="B747 Qantas"
+			guid="B01ED3E94FF0C2FC142270B120AF3660"
+			image="B747 - S Kahn\B747_Qantas.jpg"/>
+
+	<obj name="B747 Qantas Cargo Doors"
+			guid="1AF2231F4FF4163C4CF934B8CC141F4F"
+			image="B747 - S Kahn\B747_Qantas_Doors.jpg"/>
+
+	<obj name="B747 British Airways"
+			guid="4B5182314AE9ED94336E7598448785C3"
+			image="B747 - S Kahn\B747_BritishAirways.jpg"/>
+
+	<obj name="B747 British Airways Cargo Doors"
+			guid="7DA7255C474A7377413C06B2BB4DF482"
+			image="B747 - S Kahn\B747_BritishAirways_doors.jpg"/>
+
+	<obj name="B747 Air France"
+			guid="DDDCE5D24A086A14522E80B3427C54AC"
+			image="B747 - S Kahn\B747_AirFrance.jpg"/>
+
+	<obj name="B747 Air France Cargo Doors"
+			guid="90E1278946AF8A43D78ABF9A5F4BE42A"
+			image="B747 - S Kahn\B747_AirFrance_doors.jpg"/>
+
+	<obj name="B747 Continental"
+			guid="C2221FDF46A436A5F207639041929496"
+			image="B747 - S Kahn\B747_Continental.jpg"/>
+
+	<obj name="B747 Continental Cargo Doors"
+			guid="C6C232B5472394FC2685AFABC62A6FFC"
+			image="B747 - S Kahn\B747_Continental_Doors.jpg"/>
+</category>
+</objectsLibrary>	

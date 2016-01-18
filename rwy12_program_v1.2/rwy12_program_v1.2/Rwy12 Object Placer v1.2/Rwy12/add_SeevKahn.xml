@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="General Aviation Aircraft - S. Kahn">
+
+	<obj name="Cessna 172 Red &amp; Yellow (4X-AIV)"
+			guid="75CCEBFC422D88D02A129998991B1D76"
+			image="General Aviation Aircraft - sk\C172-4X-AIV.jpg"/>
+
+	<obj name="Cessna 172 White &amp; Blue (4X-CAV)"
+			guid="DC25F9854940C0C450137A94D3C97BC8"
+			image="General Aviation Aircraft - sk\C172-4X-CAV.jpg"/>
+
+	<obj name="Cessna 172 White &amp; Orange (4X-CHU)"
+			guid="70910FCC4C537D26ECC2FA8DCCE7BC4C"
+			image="General Aviation Aircraft - sk\C172-4X-CHU.jpg"/>
+
+	<obj name="Cessna 172 Black Bird (N208SK)"
+			guid="5026862A4AC0CB9EF851E3B236455E96"
+			image="General Aviation Aircraft - sk\C172-N208SK.jpg"/>
+
+	<obj name="Cessna 172 Red &amp; Yellow (N349TX)"
+			guid="54BCA2CB4B9BF7AB7320979918EFC850"
+			image="General Aviation Aircraft - sk\C172-N349TX.jpg"/>
+
+	<obj name="Cessna 172 white &amp; Blue (N464DT)"
+			guid="C22123F642D5DBBCEEDEF78F4FB987F5"
+			image="General Aviation Aircraft - sk\C172-N464DT.jpg"/>
+
+	<obj name="Cessna 172 Checkerboard (N500WA)"
+			guid="F0AB023140483C2B4AAF29AB687901FC"
+			image="General Aviation Aircraft - sk\C172-N500WA.jpg"/>
+
+	<obj name="Cessna 172 white &amp; Red (N30846)"
+			guid="1E338B794B9DFB2537C795B0437F1CF2"
+			image="General Aviation Aircraft - sk\C172-N30846.jpg"/>
+
+	<obj name="Cessna 172 white Orange Red (N88379)"
+			guid="9869F40F43A7CE4EA6DAE389D3D3757C"
+			image="General Aviation Aircraft - sk\C172-N88379.jpg"/>
+
+	<obj name="Piper Archer (G-VICC)"
+
+			guid="D9D491D54157436F1ADCC580FDA550DF"		
+			image="General Aviation Aircraft - sk\Piper Archer (G-VICC).jpg"/>
+
+	<obj name="Piper Archer (N388PZ)-D"
+
+			guid="CD5F7E1648827C4D7A0DCAA12ACB3815"
+		image="General Aviation Aircraft - sk\Piper Archer (N388PZ)-D.jpg"/>
+
+	<obj name="Piper Archer (N388PZ)-DC"
+
+			guid="3D848E754C7036618838DB92C20000C1"
+		image="General Aviation Aircraft - sk\Piper Archer (N388PZ)-DC.jpg"/>
+		
+	<obj name="Piper Archer (N3557K)"
+			guid="A7A8727646E358746322BF9303F4809D"
+		image="General Aviation Aircraft - sk\Piper Archer (N3557K).jpg"/>
+
+	<obj name="Piper Archer (N24768)"
+			guid="8E166040427FC5ABFAF569B2A3607237"
+		image="General Aviation Aircraft - sk\Piper Archer (N24768).jpg"/>
+
+	<obj name="Piper Archer (N99457)"
+			guid="57E2595A4EEF8B9A2CE4E095D2447454"
+		image="General Aviation Aircraft - sk\Piper Archer (N99457).jpg"/>
+
+	<obj name="Piper Archer Prop (N24768)"
+			guid="45F6C4E64F11E2994824E8AF0EA5609F"
+		image="General Aviation Aircraft - sk\Piper Archer (N24768)-P.jpg"/>
+	
+	<obj name="KingAir B 200 (IAF719)"
+			guid="1969812D4F8BB2CB775E77A12E0D839B"
+		image="General Aviation Aircraft - sk\KingAir B200 (IAF719).jpg"/>
+
+	<obj name="KingAir B 200 (N200KA)"
+			guid="751B92284B58F68A210799B84A4F2E9C"
+		image="General Aviation Aircraft - sk\KingAir B200 (K200KA)-P.jpg"/>
+
+	<obj name="KingAir B 200 (N200KA)"
+			guid="0E8175324715D265CB158B933248DB0D"
+			image="General Aviation Aircraft - sk\KingAir B200 (N200KA).jpg"/>
+
+	<obj name="KingAir B 200 (N433YR)"
+			guid="12906605430AD998017D019CECE07D4B"
+			image="General Aviation Aircraft - sk\KingAir B200 (N433YR).jpg"/>
+
+	<obj name="KingAir B 200 (N74568)"
+			guid="98DFD7704517F1D07E0D799FE53CD181"
+			image="General Aviation Aircraft - sk\KingAir B200 (N74568).jpg"/>
+
+	<obj name="Cessna Citation All Dark"
+		guid="E39F20C14A0F938925AC3AB55540EE0E"
+		image="General Aviation Aircraft - sk\Cessna Citation All Dark.jpg"/>
+
+	<obj name="Cessna Citation Red-Black-White"
+		guid="85963038432780EB8588DDA8AE4D5421"
+	image="General Aviation Aircraft - sk\CessnaCitation - Red Black White.jpg"/>
+
+	<obj name="Cessna Citation Red-White"
+		guid="B483D07E4F6C7B470AC8C2B99BF116DF"
+		image="General Aviation Aircraft - sk\Cessna Citation Red-White.jpg"/>
+
+	<obj name="Cessna Citation Rebublic of Srpska"
+		guid="0EE19D944030D331B7088F8F8F2EB8FB"
+	image="General Aviation Aircraft - sk\Cessna Citation Republic of Srpska.jpg"/>
+
+	<obj name="Cessna Citation-X"
+		guid="65DC98D14E052E39190B65ACE72BA74E"
+		image="General Aviation Aircraft - sk\Cessna Citation  X.jpg"/>	
+
+
+</category>
+</objectsLibrary>	

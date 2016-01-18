@@ -1,0 +1,141 @@
+Rwy12 ObjectPlacer v1.2 Program and Libraries Installation
+========================================================== 
+
+1. Version 1.2
+============== 
+This version includes the program and all 39 libraries published so far. The download is divided into 4 zip files because of the total size;
+rwy12_Program_v1.2.zip – the program with documentation
+rwy12_Lib1_v1.2.zip – object libraries part 1
+rwy12_Lib2_v1.2.zip – object libraries part 2
+rwy12_Lib3_v1.2.zip – object libraries part 3
+Many members of our community don’t have yet a broad band connection so the maximum size of one zip file should not be higher than 30-35 mb. Anyway, to enjoy the full capacity of Rwy12, you have to download and install all 4 files.
+
+What has changed in the Program since version 1.1
+The following changes and correction have been made in version 1.2;
+- Installation is manual and not by an automatic installer.
+- Third party programs are not supplied with the upload but links are given to corresponding download sites.
+- All object libraries accumulated so far are included in this download
+- The tutorial has been updated
+- Synchronization between Rwy12 and FS9 has been changed to yes\no positions.
+- You can chose between AGL and above MSL
+- You can chose between altitudes in meters and feet.
+- The problem of dot\comma for coordinates in certain O/S languages was fixed.
+- So are coordinates between 0-10 West and south which caused incorrect object placement.
+- A letter for W, E, S, N, is added to coordinates.
+- A generate scenery button was added to the main program window.
+- The program window can not be resized (and distorted by doing that). The new size is big enough to show the object image clearly.
+
+2. Installation for Those who already have Rwy12
+================================================   
+Rwy12 Object Placer Program file installation;
+1.Download all 4 zip files and unzip them to 4 temporary folders (not in FS2004).
+
+2.Delete your old files and folders (back them up if you feel better that way) from both:
+C:\Rwy12 Object Placer and
+C:\Program Files\Microsoft Games\Flight Simulator 9\Addon Scenery\Static Objects Library\scenery (and \texture).
+
+3. Copy all the following program folders into C:\Rwy12 Object Placer;
+Rwy12
+Templates		(you can keep this folder somewhere else)
+Tutorials 		(you can keep this folder somewhere else)
+
+Rename the program to say “Rwy12 Object Placer v1.2” (not a must)
+
+
+4.rwy12_lib1_v1.2 - Copy the entire Static Objects Library folder to C:\Program Files\Microsoft Games\Flight Simulator 9\Addon Scenery. You will be asked to overwrite the existing folder – do so.
+
+5.rwy12_lib2_v1.2 – copy only the Scenery files and Texture files (not the folders) into Microsoft Games\Flight Simulator 9\Addon Scenery\Scenery (and Texture). You may be asked to overwrite some texture files, Please do so. 
+
+Keep documentation, if any somewhere else.
+
+6.rwy12_lib3_v1.2 – same as 5 above.
+
+7.Navigate back to your desktop (if you are not already there) and create a new shortcut by right clicking anywhere on the screen and selecting NEW and then SHORTCUT.  This shortcut will be to the ObjectPlacer.exe file   .) which is in the RWY12 folder that you just placed on your C:\ drive.  After browsing to the location and selecting the .exe file, name the shortcut RWY12 Object Placer.
+
+3. Installation for New Users of Rwy12
+======================================
+1. Third Party Program installation
+===================================
+You will have to download and install 3 third party programs on your PC. They are:
+1. FSUPIC – by  Pete Dowson.  As of this writing, the latest version of this free program is Ver. 3.47.  You can find this at Avsim.com or Flightsim.com or you can download it directly from the author’s site by following this link:
+http://www.schiratti.com/dowson.html
+Installation instructions will follow in Chapter 3\4\1
+
+
+2.Microsoft's MSXML4. You can download this program from Microsoft download    center.
+
+http://www.microsoft.com/downloads/details.aspx?FamilyID=3144b72b-  b4f2-46da-b4b6-c5d7485f2b42&displaylang=en
+
+You need to download and install only the msxml.msi file (5,166 kb). You will find the file at the end of the download page. (The program is language sensitive, so choose your O\S language first).
+
+Install the program following on screen instruction. It will be wise to create a restore point before that. Just in Case !!
+
+3.Microsoft's Dotnetfx NET framework. The 23,698 kb program can be downloaded directly from Microsoft Download Center.
+
+http://www.microsoft.com/downloads/details.aspx?FamilyID=262d25e3-f589-4842-8157-034d1e7cf3a3&DisplayLang=en
+
+You will be downloading a program named dotnetfx.exe.
+Just click on the “download” bar at the top right of the screen.
+(The program is language sensitive, so choose your O\S language first).
+All of these downloads should be saved in a temporary folder of your choice. If you wish, this temporary folder can be on your desktop.
+
+Install the program following on screen instruction. It will be wise to create a restore point before that. Just in Case !!
+
+2.Rwy12 Object Placer Program Installation
+============================================
+1. Download all 4 zip files and unzip them to 4 temporary folders (not in FS2004).
+
+2. Copy the entire Rwy12 Object Placer v1.2 folder into your C:\ drive. This is a stand alone program that doesn’t need to go into the C:\programs.
+
+3. Browse to the new folder and you will find there 3 sub-folders. 1 of them is an information folder (Tutorials). You can keep it where itis or move it somewhere else. Keep the Templates folder in Rwy12, though you probably will never need it.
+
+4.Navigate back to your desktop (if you are not already there) and create a shortcut of the program by right clicking anywhere on the screen and selecting NEW and then SHORTCUT.  This shortcut will be to the ObjectPlacer.exe file   .) which is in the RWY12 folder that you just placed on your C:\ drive.  After browsing to the location and selecting the .exe file, name the shortcut RWY12 Object Placer.
+
+3.Rwy12 Object Placer Library Installation
+===========================================
+The download has 39 object libraries in 3 zip files. You must install all of them in order to make Rwy12 work properly. #1 library is the basic library and #2 and #3 are additions that will be installed differently;
+ 
+1.rwy12_lib1_v1.2 - Copy the entire Static Objects Library folder to C:\Program Files\Microsoft Games\Flight Simulator 9\Addon Scenery. (C:\ is the drive where you have your FS9. If different – change the paste target). Keep documentation, if any, somewhere else.
+
+2.rwy12_lib2_v1.2 – copy only the Scenery files and Texture files (not the folders) into the newly created Microsoft Games\Flight Simulator 9\Addon Scenery\Scenery (and into Files\Microsoft Games\Flight Simulator 9\Addon Scenery\Texture). You may be asked to overwrite some texture files, Please do so. 
+
+Keep documentation, if any, somewhere else.
+
+3.rwy12_lib3_v1.2 – same as 2 above.
+
+4.Two more Things to do
+========================
+1.Go to your FSUIPC download. Unzip it and copy one file; FSUIPC.dll to C:\Program Files\Microsoft Games\Flight Simulator 9\Modules
+
+2.You must “activate” the Static Objects Library folder that you placed in your Addon Scenery folder. This is done just as you would activate any scenery addition. Static Objects Library is actually a “virtual” or “reference” scenery and is recognized by FS9 as a normal add-on scenery.
+For those who don’t know how to do that,  here is an explanation; Open FS9 and go to Setting\Scenery Library\Add Area , select Addon Scenery\Static Objects Library. click OK to add this new scenery and exit FS9. Next time you start the simulator the new scenery will be activated. (Static Objects Library is a virtual scenery where all the library objects and their textures are kept, without it Rwy12 will not function)
+That’s all. Enjoy your new Rwy12 Object Placer. We strongly recommend to read the tutorials, or at least part of them, which will take some time but will save a lot of that stuff later on.
+
+4. Un-Installation of Rwy12 Object Placer
+=========================================
+Microsoft programs by returning to an earlier Restore Point
+Delete all files\folders created in C:\Rwy12 Object Placer
+Open FS2004 and go to Setting\Scenery Library\Delete Area , and delete the Static Objects Library
+Delete all files created in (X):\Program Files\Microsoft Games\Flight Simulator 9\addon scenery\scenery and \texture.
+
+5. Copyrights and Acknowlegments
+================================
+(c) 2004 ObjectPlacer and libraries by Seev Kahn are copyright of Israel Roth and Seev Kahn - Rwy12
+1.The ObjectPlacer program and attached files are FREEWARE and it is forbidden to make them part of any commercial package or activity, without the content of the authors (us and others, if they stated so in their upload)
+2.We can be contacted by e-mail zeevkahn@hotmail.com and israel_roth@hotmail.com or via our web site, which also have an active forum; http://www.rwy12.com/ We can not promise technical assistance on a regular basis, but we will be happy to get some feedback.
+3.There is no warranty either express or implied covering this product.
+4.Acknowledgments and thanks:
+
+Special thanks go to Pete Dowson who allowed us to use his FSUIPC program, which establishes the link between FS 2004 and Object Placer. This program is a keystone for FS users and has much more in it over what we used. We included, in the Documentation folder of Rwy12, the User Guide of FSUIPC ver 3.40 (in PDF format) for your convenience so you can learn more about this utility.
+
+To Discreet for making the freeware gmax program
+
+To Lee Swordy for his AFCAD program,
+
+To all the authors and additional contributors of  libraries (more about co-workers’ names who worked with the creators of the libraries can be seen in the txt files of each library). A full list of credits can be found in the PDF and Word files
+
+When you first open your Rwy12 program (double click on the icon) you will see all 39 libraries in the drop down menu and in each of them all the objects (with picture) plus the author's name;
+ 
+Israel Roth and Seev Kahn
+http://www.rwy12.com/
+Aug. 2005

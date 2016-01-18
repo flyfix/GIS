@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="Fencing - S. Ansari">
+
+	<obj name="Fence - 10m"
+			guid="06A9340011D92A765000C5BFB136012C"
+			image="Fencing - S Ansari\fencing.jpg"/>
+	
+	<obj name="Fence2 - 20m"
+			guid="60FA58E011D92A755000C5BFB136012C"
+			image="Fencing - S Ansari\fencing.jpg"/>
+
+	<obj name="Fence4 - 40m"
+			guid="21EFA00011D92A765000C5BFB136012C"
+			image="Fencing - S Ansari\fencing.jpg"/>
+			
+	<obj name="Fence8 - 80m"
+			guid="33AE2AA011D92A765000C5BFB136012C"
+			image="Fencing - S Ansari\fencing.jpg"/>
+	
+	<obj name="Fence16 - 160m"
+			guid="5FAE346011D92A765000C5BFB136012C"
+			image="Fencing - S Ansari\fencing.jpg"/>
+
+	<obj name="Fence32 - 320m"
+			guid="720B700011D92A765000C5BFB136012C"
+			image="Fencing - S Ansari\fencing.jpg"/>
+			
+	<obj name="Fence64 - 640m"
+			guid="86E67CE011D92A765000C5BFB136012C"
+			image="Fencing - S Ansari\fencing.jpg"/>
+			
+</category>
+</objectsLibrary>
+
+
+
+
+
+
+

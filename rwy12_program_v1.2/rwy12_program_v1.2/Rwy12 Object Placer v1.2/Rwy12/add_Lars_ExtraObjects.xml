@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="Lars ExtraObjects">
+	<obj name="Bus, Senior" guid="089DD7EDB04A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\bus_senior.bmp"/>
+	<obj name="Bus, Tour, Beaupre" guid="089DD7EEA04A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\bus_tour_beaupre.bmp"/>
+
+
+	<obj name="Car, Chevy Beauville Van" guid="089DD7EEC04A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_cevy_beauville_van.bmp"/>
+	<obj name="Car, Chevy Blazer (red)" guid="089DD7EED04A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_chevy_blazer_red.bmp"/>
+	<obj name="Car, Chevy Blazer (white)" guid="089DD7EEE04A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_chevy_blazer_white.bmp"/>
+	<obj name="Car, Chevy Caprice" guid="089DD7ED404A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_chevy_caprice.bmp"/>
+	<obj name="Car, Chrysler Lebaron" guid="089DD7EE104A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_chrysler_lebaron.bmp"/>
+
+	<obj name="Car, Dodge" guid="089DD7ED604A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_dodge.bmp"/>
+	<obj name="Car, Dodge Durango" guid="089DD7EE204A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_dodge_durango.bmp"/>
+	<obj name="Car, Dodge Pickup" guid="089DD7EDC04A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_dodge_pickup.bmp"/>
+	<obj name="Car, Dodge Van" guid="089DD7ED504A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_dodge_van.bmp"/>
+
+	<obj name="Car, Followme" guid="089DD7EFA04A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_followme.bmp"/>
+	<obj name="Car, Ford Mustang (black)" guid="089DD7EEF04A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_ford_mustang_black.bmp"/>
+	<obj name="Car, Ford Pickup" guid="089DD7EDD04A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_ford_pickup.bmp"/>
+
+	<obj name="Car, GMC Airport" guid="089DD7EDA04A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_gmc_airport.bmp"/>
+	<obj name="Car, GMC (old)" guid="089DD7EE504A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_gmc_old.bmp"/>
+	<obj name="Car, GMC Pickup" guid="089DD7ED804A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_gmc_pickup.bmp"/>
+
+	<obj name="Car, Honda" guid="089DD7ED204A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_honda.bmp"/>
+	<obj name="Car, Honda Civic" guid="089DD7ED704A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_honda_civic.bmp"/>
+
+	<obj name="Car, Mazda Pickup" guid="089DD7EE304A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_mazda_pickup.bmp"/>
+	<obj name="Car, Mazda Pickup (Canopy)" guid="089DD7EE404A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_mazda_pickup_canopy.bmp"/>
+	<obj name="Car, Mercury Sable" guid="089DD7EDE04A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_mercury_sable.bmp"/>
+	
+	<obj name="Car, Pontiac (3bears)" guid="089DD7EF004A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_pontiac_3bears.bmp"/>
+	<obj name="Car, Pontiac Sunbird" guid="089DD7EDF04A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_pontiac_sunbird.bmp"/>
+
+	<obj name="Car, RCMP Pickup" guid="089DD7EEB04A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_RCMP_pickup.bmp"/>
+
+	<obj name="Car, Subaru Wagon" guid="089DD7EE604A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_subaru_wagon.bmp"/>
+
+	<obj name="Car, Toyota Canry" guid="089DD7EE704A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_toyota_camry.bmp"/>
+	<obj name="Car, Toyota Corolla" guid="089DD7EE004A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_toyota_corolla.bmp"/>
+	<obj name="Car, Toyota Corolla (Old)" guid="089DD7ED304A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_toyota_corolla_old.bmp"/>
+	
+	<obj name="Car, Van" guid="089DD7ED004A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_van.bmp"/>
+	<obj name="Car, VW Bus" guid="089DD7ED104A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_vw_bus.bmp"/>
+	<obj name="Car, VW Hatchback" guid="089DD7EF104A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_vw_hatchback.bmp"/>
+	<obj name="Car, VW Transporter" guid="089DD7EF204A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\car_vw_transport.bmp"/>
+
+	<obj name="Truck, Chevy Flatbed" guid="089DD7EF404A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\truck_chevy_flatbed.bmp"/>
+	<obj name="Truck, Crane" guid="089DD7EE804A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\truck_crane.bmp"/>
+	<obj name="Truel, Fuel, coulson" guid="089DD7EE904A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\truck_fuel_coulson.bmp"/>
+	<obj name="Truck, Fuel, Columbia" guid="089DD7EF604A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\truck_fuel_columbia.bmp"/>
+	<obj name="Truck, GMC, Old Dutch" guid="089DD7EF804A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\truck_gmc_olddutch.bmp"/>
+	<obj name="Truck, GMC Yogurt" guid="089DD7ED904A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\truck_gmc_yogurt.bmp"/>
+	<obj name="Truck, Motor Home" guid="089DD7EF304A38501B021A8C6A10F5FF" image="Lars_ExtraObjects\truck_camper.bmp"/>
+
+	<obj name="Barrel, lying, black" guid="0F53067EF04DB6AC8F008D347850AA34" image="Lars_ExtraObjects\barrel_lying_black.bmp" />
+	<obj name="Barrel, lying, blue" guid="0F53067F004DB6AC8F008D347850AA34" image="Lars_ExtraObjects\barrel_lying_blue.bmp" />
+	<obj name="Barrel, lying, green" guid="0F53067F104DB6AC8F008D347850AA34" image="Lars_ExtraObjects\barrel_lying_green.bmp" />
+	<obj name="Barrel, lying, rusty" guid="0F53067EE04DB6AC8F008D347850AA34" image="Lars_ExtraObjects\barrel_lying_rusty.bmp" />
+	<obj name="Barrel, standing, black" guid="0F53067EB04DB6AC8F008D347850AA34" image="Lars_ExtraObjects\barrel_standing_black.bmp" />
+	<obj name="Barrel, standing, blue" guid="0F53067EC04DB6AC8F008D347850AA34" image="Lars_ExtraObjects\barrel_standing_blue.bmp" />
+	<obj name="Barrel, standing, green" guid="0F53067ED04DB6AC8F008D347850AA34" image="Lars_ExtraObjects\barrel_standing_green.bmp" />
+	<obj name="Barrel, standing, rusty" guid="0F53067EA04DB6AC8F008D347850AA34" image="Lars_ExtraObjects\barrel_standing_rusty.bmp" />
+
+	<obj name="Pallete, leaning" guid="00057D215047A690DE0C988319C014A1" image="Lars_ExtraObjects\pallet_leaning.bmp" />
+	<obj name="Pallete, lying" guid="00057D214047A690DE0C988319C014A1" image="Lars_ExtraObjects\pallet_lying.bmp" />
+	<obj name="Palletes, stacked" guid="00057D216047A690DE0C988319C014A1" image="Lars_ExtraObjects\pallet_stack.bmp" />
+	
+	<obj name="Power Lines, 3 Wires, 1 Pole" guid="0F314B7F40416488F902FE896B10F053" image="Lars_ExtraObjects\power_3_1_lines.bmp" />
+	<obj name="Power Lines, 3 Connectors, 1 Pole" guid="0F314B7F60416488F902FE896B10F053" image="Lars_ExtraObjects\power_3_1_nolines.bmp" />
+	<obj name="Power Lines, 3 Wires, 2 Poles" guid="0F314B7F50416488F902FE896B10F053" image="Lars_ExtraObjects\power_3_2_lines.bmp" />
+	<obj name="Power Lines, 4 Wires, 1 Pole" guid="0F314B7F70416488F902FE896B10F053" image="Lars_ExtraObjects\power_4_1_lines.bmp" />
+	<obj name="Power Lines, 4 Connectors, 1 Pole" guid="0F314B7F90416488F902FE896B10F053" image="Lars_ExtraObjects\power_4_1_nolines.bmp" />
+	<obj name="Power Lines, 4 Wires, 2 Poles" guid="0F314B7F80416488F902FE896B10F053" image="Lars_ExtraObjects\power_4_2_lines.bmp" />
+	<obj name="Power Lines, 8 Wires, 1 Pole" guid="0F314B7FA0416488F902FE896B10F053" image="Lars_ExtraObjects\power_8_1_lines.bmp" />
+	<obj name="Power Lines, 8 Connectors, 1 Pole" guid="0F314B7FC0416488F902FE896B10F053" image="Lars_ExtraObjects\power_8_1_nolines.bmp" />
+	<obj name="Power Lines, 8 Wires, 2 Poles" guid="0F314B7FB0416488F902FE896B10F053" image="Lars_ExtraObjects\power_8_2_lines.bmp" />	
+</category>
+</objectsLibrary>	

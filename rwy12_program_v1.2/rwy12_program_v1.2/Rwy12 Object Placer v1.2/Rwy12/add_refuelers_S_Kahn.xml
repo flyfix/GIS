@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="Refuelers - S Kahn">
+
+	<obj name="chevron Refueller"				
+			guid="D8657C6040B4803C16DAED8B197332CB"
+				image="Refuelers - S Kahn\chevron Refueller.jpg"/>
+	<obj name="Shell Refueller"				
+			guid="D4E6712F40B8B3D8734E4CAA3AD84D28"
+				image="Refuelers - S Kahn\Shell Refueller.jpg"/>
+
+</category>
+</objectsLibrary>	

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="Hot Air Balloons - S. Kahn">
+
+	<obj name="balloon_1"
+			guid="3A49FB2F4D224105DD71CC866934E202"
+			image="Hot Air Balloons - S. Kahn\balloon_1.jpg"/>
+
+	<obj name="balloon_2"
+			guid="5581936E48653BE967790B8F35E17D4A"
+			image="Hot Air Balloons - S. Kahn\balloon_2.jpg"/>
+
+	<obj name="balloon_3"
+			guid="82F673774FF535855240B181637F796C"
+			image="Hot Air Balloons - S. Kahn\balloon_3.jpg"/>
+
+	<obj name="balloon_4"
+			guid="B5131E96488DCB31B14276818BAFF10F"
+			image="Hot Air Balloons - S. Kahn\balloon_4.jpg"/>
+
+	<obj name="balloon_5"
+			guid="24D8C9B249C42DB85F883B99D2288C18"
+			image="Hot Air Balloons - S. Kahn\balloon_5.jpg"/>
+
+	<obj name="balloon_6"
+			guid="D23866544A4FDE696E78C5B4EEF3D63E"
+			image="Hot Air Balloons - S. Kahn\balloon_6.jpg"/>
+
+	<obj name="balloon_7"
+			guid="19BFA21A4875654B69A230A24C2F4F7A"
+			image="Hot Air Balloons - S. Kahn\balloon_7.jpg"/>
+
+	<obj name="balloon_8"
+			guid="ADE3583C4889266EF27312B6B3EA0A4A"
+			image="Hot Air Balloons - S. Kahn\balloon_8.jpg"/>
+
+	<obj name="balloon_9"
+			guid="EA00710D4729BB1925BD85A2A76B4E52"
+			image="Hot Air Balloons - S. Kahn\balloon_9.jpg"/>
+
+	<obj name="balloon_10"
+			guid="F3B6B47A48464B10F2758C9527C804FE"
+			image="Hot Air Balloons - S. Kahn\balloon_10.jpg"/>
+
+	<obj name="balloon_11"
+			guid="7BE84CB74D9A5E3E7F06BE91F8C3262A"
+			image="Hot Air Balloons - S. Kahn\balloon_11.jpg"/>
+
+	<obj name="balloon_12"
+			guid="CF57FDB54DC4F8E8DE30549FD407545E"
+			image="Hot Air Balloons - S. Kahn\balloon_12.jpg"/>
+
+	<obj name="balloon_13"
+			guid="3E4DA19445C6FB0DF8950BA648383FF6"
+			image="Hot Air Balloons - S. Kahn\balloon_13.jpg"/>
+
+	<obj name="balloon_14"
+			guid="B2CA949C4D7B5EAC0D439A8F500E016F"
+			image="Hot Air Balloons - S. Kahn\balloon_14.jpg"/>
+
+	<obj name="balloon_15"
+			guid="9538165C409C3CC7725DADA9C0442226"
+			image="Hot Air Balloons - S. Kahn\balloon_15.jpg"/>
+
+	<obj name="balloon_16"
+			guid="CC8575B64BCF1FB98F03628737C38137"
+			image="Hot Air Balloons - S. Kahn\balloon_16.jpg"/>
+
+	<obj name="balloon_17"
+			guid="BA11DDCB4B741F52B2EAC68205AD6A16"
+			image="Hot Air Balloons - S. Kahn\balloon_17.jpg"/>
+
+	<obj name="balloon_18"
+			guid="A2695C3C458E71652BFD84AAD4E9E232"
+			image="Hot Air Balloons - S. Kahn\balloon_18.jpg"/>
+
+	<obj name="balloon_19"
+			guid="51F3C53940E46045B919EAA3AC9E061D"
+			image="Hot Air Balloons - S. Kahn\balloon_19.jpg"/>
+
+	<obj name="balloon_20"
+			guid="F92C1FDB4DDC18E2904F81B95B7FB17D"
+			image="Hot Air Balloons - S. Kahn\balloon_20.jpg"/>
+
+	<obj name="balloon_21"
+			guid="8A1110974C660306B0E10991BA652855"
+			image="Hot Air Balloons - S. Kahn\balloon_21.jpg"/>
+
+	<obj name="balloon_22"
+			guid="C0618E0C47DC0B0989364C8CAE87AEFF"
+			image="Hot Air Balloons - S. Kahn\balloon_22.jpg"/>
+
+	<obj name="VideoMap_1"
+			guid="35DC3FED4A90D4C636D9A394819BCE1F"
+			image="Hot Air Balloons - S. Kahn\VideoMap_1.jpg"/>
+
+</category>
+</objectsLibrary>	

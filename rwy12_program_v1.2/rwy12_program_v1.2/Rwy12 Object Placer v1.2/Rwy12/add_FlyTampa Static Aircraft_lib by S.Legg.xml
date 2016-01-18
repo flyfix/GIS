@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="FlyTampa Static Aircraft - By S.Legg">
+
+
+        <obj name="FlyTampa Static Aircraft - Do not place this"
+		guid=""
+		        image="FlyTampa Static Aircraft by S.Legg\index.jpg" />
+        
+        <obj name="B737 - American Airlines"
+		guid="79EC5DB38E381D518215E6DB960AA89A"
+		        image="FlyTampa Static Aircraft by S.Legg\B737AmericanArrowCayman737.jpg" />
+
+        <obj name="B737 - Arrow"
+		guid="79EC5DB38E381D518215E6DB960AA8A8"
+		        image="FlyTampa Static Aircraft by S.Legg\B737AmericanArrowCayman737.jpg" />
+
+        <obj name="B737 - CamenAirways"
+		guid="79EC5DB38E381D518215E6DB960AA8A9"
+		        image="FlyTampa Static Aircraft by S.Legg\B737AmericanArrowCayman737.jpg" />
+	
+        <obj name="B737 - Continental"
+		guid="79EC5DB38E381D518215E6DB960AA8AA"
+		        image="FlyTampa Static Aircraft by S.Legg\B737DeltaContMiami.jpg" />
+	
+        <obj name="B737 - Delta "
+		guid="79EC5DB38E381D518215E6DB960AA8AB"
+		        image="FlyTampa Static Aircraft by S.Legg\B737DeltaContMiami.jpg" />
+
+        <obj name="B737 - MiamiAir"
+		guid="79EC5DB38E381D518215E6DB960AA8AC"
+		        image="FlyTampa Static Aircraft by S.Legg\B737DeltaContMiami.jpg" />
+
+        <obj name="B747 - Air France"
+		guid="79EC5DB38E381D518215E6DB960AA8AD"
+		        image="FlyTampa Static Aircraft by S.Legg\B747FreightAirFranceLuft.jpg" />
+
+        <obj name="B747 - Freight"
+		guid="79EC5DB38E381D518215E6DB960AA8AE"
+		        image="FlyTampa Static Aircraft by S.Legg\B747FreightAirFranceLuft.jpg" />
+        
+        <obj name="B747 - British Airways"
+		guid="79EC5DB38E381D518215E6DB960AA8AF"
+		        image="FlyTampa Static Aircraft by S.Legg\B747BAQantasVA.jpg" />
+
+        <obj name="B747 - Lufthansa"
+		guid="79EC5DB38E381D518215E6DB960AA8B0"
+		        image="FlyTampa Static Aircraft by S.Legg\B747FreightAirFranceLuft.jpg" />
+
+        <obj name="B747 - Qantas"
+		guid="79EC5DB38E381D518215E6DB960AA8B1"
+		        image="FlyTampa Static Aircraft by S.Legg\B747BAQantasVA.jpg" />
+
+        <obj name="B747 - Virgin Atlantic"
+		guid="79EC5DB38E381D518215E6DB960AA8B2"
+		        image="FlyTampa Static Aircraft by S.Legg\B747BAQantasVA.jpg" />
+
+        <obj name="B767 - American Airlines"
+		guid="79EC5DB38E381D518215E6DB960AA8B3"
+		        image="FlyTampa Static Aircraft by S.Legg\B767AmericanCanadaAvianca.jpg" />
+
+        <obj name="B767 - Air Canada"
+		guid="79EC5DB38E381D518215E6DB960AA8B4"
+		        image="FlyTampa Static Aircraft by S.Legg\B767AmericanCanadaAvianca.jpg" />
+
+        <obj name="B767 - Avianca COlombia"
+		guid="79EC5DB38E381D518215E6DB960AA8B5"
+		        image="FlyTampa Static Aircraft by S.Legg\B767AmericanCanadaAvianca.jpg" />
+
+        <obj name="B767 - Continental"
+		guid="79EC5DB38E381D518215E6DB960AA8B6"
+		        image="FlyTampa Static Aircraft by S.Legg\B767ConUSADelta.jpg" />
+
+        <obj name="B767 - Delta"
+		guid="79EC5DB38E381D518215E6DB960AA8B7"
+		        image="FlyTampa Static Aircraft by S.Legg\B767ConUSADelta.jpg" />
+
+        <obj name="B767 - USAirways"
+		guid="79EC5DB38E381D518215E6DB960AA8B8"
+		        image="FlyTampa Static Aircraft by S.Legg\B767ConUSADelta.jpg" />
+
+        <obj name="B777 - American Airlines"
+		guid="79EC5DB38E381D518215E6DB960AA8B9"
+		        image="FlyTampa Static Aircraft by S.Legg\B777AmericanAirCanadaAeromexico.jpg" />
+
+        <obj name="B777 - Air Canada"
+		guid="79EC5DB38E381D518215E6DB960AA8BA"
+		        image="FlyTampa Static Aircraft by S.Legg\B777AmericanAirCanadaAeromexico.jpg" />
+
+        <obj name="B777 - AeroMexico"
+		guid="79EC5DB38E381D518215E6DB960AA8BB"
+		        image="FlyTampa Static Aircraft by S.Legg\B777BADeltaFedex.jpg" />
+
+        <obj name="B777 - British Airways"
+		guid="79EC5DB38E381D518215E6DB960AA8BC"
+		        image="FlyTampa Static Aircraft by S.Legg\B777BADeltaFedex.jpg" />
+
+        <obj name="B777 - Delta"
+		guid="79EC5DB38E381D518215E6DB960AA8BD"
+		        image="FlyTampa Static Aircraft by S.Legg\B777BADeltaFedex.jpg" />
+
+        <obj name="B777 - FedEx"
+		guid="79EC5DB38E381D518215E6DB960AA8BE"
+		        image="FlyTampa Static Aircraft by S.Legg\B777BADeltaFedex.jpg" />
+
+        <obj name="A320 - Aces"
+		guid="79EC5DB38E381D518215E6DB960AA8BF"
+		        image="FlyTampa Static Aircraft by S.Legg\A320TacaAmericawestAces.jpg" />
+
+        <obj name="A320 - America West"
+		guid="79EC5DB38E381D518215E6DB960AA8C0"
+		        image="FlyTampa Static Aircraft by S.Legg\A320TacaAmericawestAces.jpg" />
+
+        <obj name="A320 - TACA"
+		guid="79EC5DB38E381D518215E6DB960AA89B"
+		        image="FlyTampa Static Aircraft by S.Legg\A320TacaAmericawestAces.jpg" />
+
+        <obj name="A320 - United Airlines"
+		guid="79EC5DB38E381D518215E6DB960AA89C"
+		        image="FlyTampa Static Aircraft by S.Legg\A320USAunitedJetblue.jpg" />
+
+        <obj name="A320 - USAirlines"
+		guid="79EC5DB38E381D518215E6DB960AA89D"
+		        image="FlyTampa Static Aircraft by S.Legg\A320USAunitedJetblue.jpg" />
+
+        <obj name="A320 - JetBlue"
+		guid="79EC5DB38E381D518215E6DB960AA8C3"
+		        image="FlyTampa Static Aircraft by S.Legg\A320USAunitedJetblue.jpg" />
+
+        <obj name="MD80 - AeroPostal"
+		guid="79EC5DB38E381D518215E6DB960AA8C1"
+		        image="FlyTampa Static Aircraft by S.Legg\MD80AirJamicaAeropostalAirTran.jpg" />
+
+        <obj name="MD80 - AirJamica"
+		guid="79EC5DB38E381D518215E6DB960AA8C2"
+		        image="FlyTampa Static Aircraft by S.Legg\MD80AirJamicaAeropostalAirTran.jpg" />
+
+        <obj name="MD80 - AirAmerica"
+		guid="79EC5DB38E381D518215E6DB960AA8A4"
+		        image="FlyTampa Static Aircraft by S.Legg\MD80AirJamicaAeropostalAirTran.jpg" />
+
+        <obj name="MD80 - AeroMar"
+		guid="79EC5DB38E381D518215E6DB960AA8A5"
+		        image="FlyTampa Static Aircraft by S.Legg\MD80AAAeromexiceAeromar.jpg" />
+
+        <obj name="MD80 - AeroMexico"
+		guid="79EC5DB38E381D518215E6DB960AA8A6"
+		        image="FlyTampa Static Aircraft by S.Legg\MD80AAAeromexiceAeromar.jpg" />
+
+        <obj name="MD80 - AirTran"
+		guid="79EC5DB38E381D518215E6DB960AA8A7"
+		        image="FlyTampa Static Aircraft by S.Legg\MD80AAAeromexiceAeromar.jpg" />
+
+        <obj name="MD11 - Alitala"
+		guid="79EC5DB38E381D518215E6DB960AA89E"
+		        image="FlyTampa Static Aircraft by S.Legg\MD11CentAlitaliaDHL.jpg" />
+
+        <obj name="MD11 - Centurion"
+		guid="79EC5DB38E381D518215E6DB960AA89F"
+		        image="FlyTampa Static Aircraft by S.Legg\MD11CentAlitaliaDHL.jpg" />
+
+       <obj name="MD11 - DHL"
+		guid="79EC5DB38E381D518215E6DB960AA8A0"
+		        image="FlyTampa Static Aircraft by S.Legg\MD11CentAlitaliaDHL.jpg" />
+
+      <obj name="MD11 - Gemini"
+		guid="79EC5DB38E381D518215E6DB960AA8A1"
+		        image="FlyTampa Static Aircraft by S.Legg\MD11GeminiUPSVarig.jpg" />
+
+      <obj name="MD11 - UPS"
+		guid="79EC5DB38E381D518215E6DB960AA8A2"
+		        image="FlyTampa Static Aircraft by S.Legg\MD11GeminiUPSVarig.jpg" />
+
+      <obj name="MD11 - Varig"
+		guid="79EC5DB38E381D518215E6DB960AA8A3"
+		        image="FlyTampa Static Aircraft by S.Legg\MD11GeminiUPSVarig.jpg" />
+
+        </category>
+</objectsLibrary>

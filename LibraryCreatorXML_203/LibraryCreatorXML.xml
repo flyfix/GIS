@@ -1,0 +1,9 @@
+<Configuration>
+  <lastXML>G:\Repos\Szkola\GIS\Murowaniec GIS - Copy\FSX\murowaniec.xml</lastXML>
+  <lastMDL>G:\Repos\Szkola\GIS\Murowaniec GIS - Copy\FSX\Murowaniec.MDL</lastMDL>
+  <bglCompPathX>C:\Program Files (x86)\Microsoft Games\Microsoft Flight Simulator X SDK\SDK\Environment Kit\BGL Compiler SDK\BglComp.exe</bglCompPathX>
+  <bglFile xmlFile="G:\Repos\Szkola\GIS\Murowaniec GIS\murowaniec.xml">C:\Program Files (x86)\Microsoft Games\Microsoft Flight Simulator X\Addon Scenery\scenery\murowaniec.bgl</bglFile>
+  <bglFile xmlFile="C:\Program Files (x86)\Microsoft Games\Microsoft Flight Simulator X\Addon Scenery\scenery\murowaniec.xml">C:\Program Files (x86)\Microsoft Games\Microsoft Flight Simulator X\Addon Scenery\scenery\murowaniec.bgl</bglFile>
+  <relativePath>TRUE</relativePath>
+  <bglFile xmlFile="G:\Repos\Szkola\GIS\Murowaniec GIS - Copy\FSX\murowaniec.xml">G:\Repos\Szkola\GIS\Murowaniec GIS - Copy\FSX\murowaniec.bgl</bglFile>
+</Configuration>

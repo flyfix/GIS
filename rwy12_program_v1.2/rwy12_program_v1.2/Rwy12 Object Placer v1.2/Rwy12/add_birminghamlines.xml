@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<objectslibrary>
+<category name="Birmingham Power Lines - B. Pierce">
+
+	<obj name="powerline_generic"
+		guid="93F86BC011D94AA9454401B000005453"
+			image="Birmingham Power Lines - B. Pierce\powerline_generic.JPG"/>
+
+
+	<obj name="powerline_roebuck"
+		guid="8605DD4011D94AA9454401B000005453"
+			image="Birmingham Power Lines - B. Pierce\powerline_roebuck.JPG"/>
+
+
+	<obj name="powerline_highway79" 
+		guid="60F779A011D94AA9454401B000005453" 
+			image="Birmingham Power Lines - B. Pierce\powerline_highway79.JPG"/>
+
+
+	<obj name="norwood_line" 
+		guid="706A8DA011D94AA9454401B000005453" 
+			image="Birmingham Power Lines - B. Pierce\powerline_norwood.JPG"/>
+
+
+	<obj name="trussville_chalkville" 
+		guid="7952376011D94AA9454401B000005453" 
+			image="Birmingham Power Lines - B. Pierce\powerline_trussville_chalkville.JPG"/>
+
+
+	<obj name="poles_east_of_eastwood" 
+		guid="50B2D6E011D94CF0454401B000005453" 
+			image="Birmingham Power Lines - B. Pierce\powerline_eastofeastwood.JPG"/>
+
+
+	<obj name="crestwoodline" 
+		guid="B8818BE011D94CF0454401B000005453" 
+			image="Birmingham Power Lines - B. Pierce\powerline_crestwood.JPG"/>
+
+
+	<obj name="Eastwood_line" 
+		guid="1860482011D94CF2454401B000005453" 
+			image="Birmingham Power Lines - B. Pierce\powerline_eastwood.JPG"/>
+
+
+</category>
+</objectslibrary>
+

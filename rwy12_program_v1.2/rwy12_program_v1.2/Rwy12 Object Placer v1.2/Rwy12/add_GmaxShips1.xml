@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="Ships - Winfried Orthmann">
+
+	<obj name="166containerGreenGrayEmpty"
+			guid="903E6D334744FC7DE644CE92083B0FF9"
+			image="Ships - Winfried Orthmann\166containerGreenGrayEmpty.jpg"/>
+	
+	<obj name="166containerOrange"
+			guid="89F185ED4109D4F38EACFFA3AF6601F0"
+			image="Ships - Winfried Orthmann\166containerOrange.jpg"/>
+
+	<obj name="166containerOrangeEmpty"
+			guid="5E3D81ED464D255B861F799D56DA84F5"
+			image="Ships - Winfried Orthmann\166containerOrangeEmpty.jpg"/>
+
+	<obj name="178cargoBlackGray"
+			guid="E658A10B42F1517C4854A8BF762412EB"
+			image="Ships - Winfried Orthmann\178cargoBlackGray.jpg"/>
+
+	<obj name="178cargoBlackGrayGeared"
+			guid="59B0720A476CF22DFBCAFC877B273A58"
+			image="Ships - Winfried Orthmann\178cargoBlackGrayGeared.jpg"/>
+
+	<obj name="178cargoBlackGreen"
+			guid="865DB17E46E99D6DC82D58B5F67AFD92"
+			image="Ships - Winfried Orthmann\178cargoBlackGreen.jpg"/>
+
+	<obj name="178cargoBlackRed"
+			guid="E94F3F8746D9874CEC8624AB7F1C13FA"
+			image="Ships - Winfried Orthmann\178cargoBlackRed.jpg"/>
+
+	<obj name="178tankerBlue"
+			guid="2BDAFB1543D29C909C5DB38BBB95C36B"
+			image="Ships - Winfried Orthmann\178tankerBlue.jpg"/>
+
+	<obj name="178tankerBlueGrey"
+			guid="D33CD5C94864EBE13EF25B8A1A38B6F7"
+			image="Ships - Winfried Orthmann\178tankerBlueGrey.jpg"/>
+
+	<obj name="178tankerGreyGreen"
+			guid="F4608CAE49C4B8ABB7285098250DC579"
+			image="Ships - Winfried Orthmann\178tankerGreyGreen.jpg"/>
+
+	<obj name="178tankerGreyRed"
+			guid="77E506F54C0D140B2927469E0951E1F5"
+			image="Ships - Winfried Orthmann\178tankerGreyRed.jpg"/>
+
+	<obj name="193CarCarrierGreenWhite"
+			guid="0545886E453B4A3956E327BE9354E6F5"
+			image="Ships - Winfried Orthmann\193CarCarrierGreenWhite.jpg"/>
+
+	<obj name="193CarCarrierGreyWhite"
+			guid="79C9A2644D540E41F1943EA29143599A"
+			image="Ships - Winfried Orthmann\193CarCarrierGreyWhite.jpg"/>
+
+	<obj name="210containerBlueLoaded"
+			guid="AFF4E9AB49FE61EA62247BAF50F418BB"
+			image="Ships - Winfried Orthmann\210containerBlueLoaded.jpg"/>
+
+	<obj name="210containerGreenLoaded"
+			guid="2423ED044798AD45EFF3DE8DDA223D06"
+			image="Ships - Winfried Orthmann\210containerGreenLoaded.jpg"/>
+
+	<obj name="210containerGreyGearless"
+			guid="E31CBC2F49FBFC287364E8AFF242DCAC"
+			image="Ships - Winfried Orthmann\210containerGreyGearless.jpg"/>
+
+	<obj name="210containerGreyHalfload"
+			guid="121A61B6437BF759A6F3CC9CB3219B86"
+			image="Ships - Winfried Orthmann\210containerGreyHalfload.jpg"/>
+
+	<obj name="217cargoBlueRed"
+			guid="B6F56AE749211446F873A890DF18FF37"
+			image="Ships - Winfried Orthmann\217cargoBlueRed.jpg"/>
+
+	<obj name="217cargoGreenGray"
+			guid="B1E7C2FD4617E04D50846EBABB971D8B"
+			image="Ships - Winfried Orthmann\217cargoGreenGray.jpg"/>
+
+	<obj name="23pilot_black"
+			guid="8BB8F3E94B689978030E058D9A72615B"
+			image="Ships - Winfried Orthmann\23pilot_black.jpg"/>
+
+	<obj name="23mBlue"
+			guid="AD0BBD4446D642CBF7EDD596DFCD2530"
+			image="Ships - Winfried Orthmann\23mBlue.jpg"/>
+
+	<obj name="23mGreen"
+			guid="3A1190D446AC08EDE910E2921948EF31"
+			image="Ships - Winfried Orthmann\23mGreen.jpg"/>
+	<obj name="23mRed"
+			guid="57EC3E884A9DD351CCD04D9D5ABADA23"
+			image="Ships - Winfried Orthmann\23mRed.jpg"/>
+
+	<obj name="23mRedBlue"
+			guid="A88C909A47451628F57DAB974471EA47"
+			image="Ships - Winfried Orthmann\23mRedBlue.jpg"/>
+
+	<obj name="23tugBlack"
+			guid="EAF42625436D360587336180AAF649EB"
+			image="Ships - Winfried Orthmann\23tugBlack.jpg"/>
+
+	<obj name="23tugBlue"
+			guid="12B29F444EB508D16F8324B88F5C9D2F"
+			image="Ships - Winfried Orthmann\23tugBlue.jpg"/>
+
+	<obj name="250LPGBlackGreenGrey"
+			guid="7B4E56634A67E057383C3580C08343D3"
+			image="Ships - Winfried Orthmann\250LPGBlackGreenGrey.jpg"/>
+
+	<obj name="250LPGBlackRed"
+			guid="61E1CBE2452B7A87FE92E4BC5A41E7D2"
+			image="Ships - Winfried Orthmann\250LPGBlackRed.jpg"/>
+
+	<obj name="250LPGBlackRedWhite"
+			guid="71B6C2A54A8EA9985C42098FCCA8A331"
+			image="Ships - Winfried Orthmann\250LPGBlackRedWhite.jpg"/>
+
+	<obj name="250LPGBlackYellow"
+			guid="88AB7885450AF381E74AC7BCF6F71A92"
+			image="Ships - Winfried Orthmann\250LPGBlackYellow.jpg"/>
+
+	<obj name="254cargoBlackBrownGeared"
+			guid="948A9C114A9D3BF7677DE4BE7F48ABFF"
+			image="Ships - Winfried Orthmann\254cargoBlackBrownGeared.jpg"/>
+
+	<obj name="254tankerBlackBlue"
+			guid="E11B9348408C799C856E59B61D95ADBC"
+			image="Ships - Winfried Orthmann\254tankerBlackBlue.jpg"/>
+
+	<obj name="254tankerBlackGreen"
+			guid="AC8538DF4B7338E5A7095297D8FF8DB7"
+			image="Ships - Winfried Orthmann\254tankerBlackGreen.jpg"/>
+
+	<obj name="254tankerGreenGray"
+			guid="DF8B66ED478167E7BD5F6FA90C8BA9C9"
+			image="Ships - Winfried Orthmann\254tankerGreenGray.jpg"/>
+
+	<obj name="254tankerRed"
+			guid="20A680354CC03364D08546805B5832DC"
+			image="Ships - Winfried Orthmann\254tankerRed.jpg"/>
+
+	<obj name="270containerBlue"
+			guid="FF3765CF4283A277D2C7D89642626D4D"
+			image="Ships - Winfried Orthmann\270containerBlue.jpg"/>
+
+	<obj name="270containerGreen"
+			guid="46A830E546541D73C2582E8B0928A58F"
+			image="Ships - Winfried Orthmann\270containerGreen.jpg"/>
+
+	<obj name="285cargoBlueBrown"
+			guid="2898290C4F0239C1E643008B1C40C003"
+			image="Ships - Winfried Orthmann\285cargoBlueBrown.jpg"/>
+
+	<obj name="285cargoGreenRed"
+			guid="F6243A7440484A46CF90A39114BCE980"
+			image="Ships - Winfried Orthmann\285cargoGreenRed.jpg"/>
+
+	<obj name="285cargoRed"
+			guid="2003E3F545E73C2C8D70078F5DDEA3BF"
+			image="Ships - Winfried Orthmann\285cargoRed.jpg"/>
+
+	<obj name="320containerBlack"
+			guid="5A6B77984184DB5098D92BA79C261CB5"
+			image="Ships - Winfried Orthmann\320containerBlack.jpg"/>
+
+	<obj name="320tankerBlackGreen"
+			guid="5873575D4F985EEFD8FFACA4C5E6C09B"
+			image="Ships - Winfried Orthmann\320tankerBlackGreen.jpg"/>
+
+	<obj name="320tankerRed"
+			guid="755A2A264191B909C352D38E8AAAAD43"
+			image="Ships - Winfried Orthmann\320tankerRed.jpg"/>
+
+	<obj name="322oreCarrierGreen"
+			guid="D2FCC8144747920C40BDBA8366058CCB"
+			image="Ships - Winfried Orthmann\322oreCarrierGreen.jpg"/>
+
+	<obj name="322oreCarrierRed"
+			guid="58BA4D47460FF3234911C1B31764DC6F"
+			image="Ships - Winfried Orthmann\322oreCarrierRed.jpg"/>
+
+	<obj name="322oreCarrierRedGrey"
+			guid="9B6DA89348047FFCD568A7B49DE9B9F1"
+			image="Ships - Winfried Orthmann\322oreCarrierRedGrey.jpg"/>
+
+	<obj name="345containerBlue"
+			guid="CD13A16C4424FFC7B089AA9A6052F940"
+			image="Ships - Winfried Orthmann\345containerBlue.jpg"/>
+
+	<obj name="34tugBlue"
+			guid="02BBD3C14D44387B3D5824B742C24B79"
+			image="Ships - Winfried Orthmann\34tugBlue.jpg"/>
+
+	<obj name="34tugRed"
+			guid="DB70C21542EAD8DF93AE10BAF010CD3C"
+			image="Ships - Winfried Orthmann\34tugRed.jpg"/>
+
+</category>
+</objectsLibrary>

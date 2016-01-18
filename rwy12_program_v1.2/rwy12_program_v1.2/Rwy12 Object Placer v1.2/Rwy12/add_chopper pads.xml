@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="Chopper Pads - Lt. Finney">
+
+	<obj name="Chopper Pad - Octagon"
+			guid="B122769B4A02A7B52F763D82D62D6436"
+			image="Chopper Pad\Oct.jpg"/>
+	
+	<obj name="Chopper Pad - Octagon with Nets"
+			guid="20FD2FE441A04686950B3DB49BD80F27"
+			image="Chopper Pad\Octnets.jpg"/>
+
+	<obj name="Chopper Pad - Square"
+			guid="1E95EDC94C7841DEF2B36D851D6E6044"
+			image="Chopper Pad\square.jpg"/>
+</category>
+</objectsLibrary>
+
+
+
+
+
+
+

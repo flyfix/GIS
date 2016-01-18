@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="Chopper Trailers - Lt. Finney">
+
+	<obj name="Chopper Trailer - Small"
+			guid="549B9A7A4904D2276F631983137420BD"
+			image="Chopper Trailer\trailer-1.jpg"/>
+	
+	<obj name="Chopper Trailer - Large"
+			guid="046504A1425C1C965FF53BB4A6A33C16"
+			image="Chopper Trailer\trailer-2.jpg"/>
+
+	<obj name="Chopper Trailer - Floating"
+			guid="9073B1F1436F5F256536CBA0FBE43BAB"
+			image="Chopper Trailer\trailer-3.jpg"/>
+</category>
+</objectsLibrary>
+
+
+
+
+
+
+

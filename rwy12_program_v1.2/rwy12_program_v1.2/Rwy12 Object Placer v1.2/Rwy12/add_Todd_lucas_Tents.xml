@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="Tents - T Lucas">
+
+	<obj name="med_tent_blue"
+			guid="56D8A656489500085D5AC18724AE7247"
+			image="Tents - T Lucas\med_tent_blue.jpg"/>
+
+	<obj name="med_tent_blue_halfopen"
+			guid="F35C93ED43185F4453BE4C9D6EFA240A"
+			image="Tents - T Lucas\med_tent_blue_halfopen.jpg"/>
+	
+	<obj name="med_tent_green"
+			guid="CAEB2B8A4A73CC3CC3ABFFAB539169A0"
+			image="Tents - T Lucas\med_tent_green.jpg"/>
+
+	<obj name="med_tent_red"
+			guid="7F87CA02478CCC576E4D5B8A97EE6255"
+			image="Tents - T Lucas\med_tent_red.jpg"/>
+
+	<obj name="med_tent_red_halfopen"
+			guid="5E30220944783CC7DB045D8807E729C1"
+			image="Tents - T Lucas\med_tent_red_halfopen.jpg"/>
+
+	<obj name="picnic_table"
+			guid="499FE2864FB32B9C8C258A8DA7C8C935"
+			image="Tents - T Lucas\picnic_table.jpg"/>
+
+	<obj name="small_tent_blue"
+			guid="519B43754F606E03F52A06B22B272A81"
+			image="Tents - T Lucas\small_tent_blue.jpg"/>
+
+	<obj name="small_tent_green"
+			guid="E6A5288A4AE4ED98CB8560B6FA4143C1"
+			image="Tents - T Lucas\small_tent_green.jpg"/>
+
+	<obj name="small_tent_red"
+			guid="901FD3A344E621102262C19FBCC1DD42"
+			image="Tents - T Lucas\small_tent_red.jpg"/>
+</category>
+</objectsLibrary>	

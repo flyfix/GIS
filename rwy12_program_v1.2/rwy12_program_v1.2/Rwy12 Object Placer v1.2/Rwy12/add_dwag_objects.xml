@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="dwag_objects">
+
+        <obj name="Utility Hanger"
+			guid="67EC544C488F98E5CE7F1D82B02D8826"
+	     		image="dwag_objects\utilityhanger.jpg"/>
+	 
+        <obj name="concrete curb"
+			guid="EA62D27B44A6737F8492DABA952056F9"
+	     		image="dwag_objects\concurb.jpg"/>
+
+        <obj name="100m Fence Section"
+			guid="4677F8D84A9640CF1E9921A0A2E70C39"
+	     		image="dwag_objects\100mfence.jpg"/>
+
+        <obj name="Soda Pop Despencer 1"
+			guid="988A767242D3D682CAD8DA80A8426B83"
+			image="dwag_objects\soda1.jpg"/>
+
+	<obj name="Soda Pop Despencer 2"
+			guid="313EFBFA4DDD1A0061E5AABD6C509A6B"
+			image="dwag_objects\soda2.jpg"/>
+
+        <obj name="Trash Dumpster"
+			guid="1049181849C29A2F8DF5CE8C90F86C5E"
+			image="dwag_objects\dmpster.jpg"/>
+	
+        
+
+
+
+        <obj name="S01_AIRAMERICA"
+			guid="14CA60FC454BEBBBD28963919E9AEA28"
+			image="dwag_objects\dwsigns01.jpg"/>
+
+        <obj name="S01_BAHAMA_AIR"
+			guid="A12D9BC341F295F4E2480DBA500C9B2B"
+			image="dwag_objects\dwsigns01.jpg"/>
+
+        <obj name="S01_CHEVRON"
+			guid="7BA4CF3447EC44AB3105A886CF7C873C"
+			image="dwag_objects\dwsigns01.jpg"/>
+
+        <obj name="S01_EAGLEAVI"
+			guid="2D337E9A4879E1764538D99A3703D885"
+			image="dwag_objects\dwsigns01.jpg"/>
+
+        <obj name="S01_EDWARDS"
+			guid="749E4D7243C1B89CC4A4BE85CFF6A6CA"
+			image="dwag_objects\dwsigns01.jpg"/>
+
+        <obj name="S01_FOURSTAR"
+			guid="1DD3C6DF43700F7D76F14BB2DC1135F2"
+			image="dwag_objects\dwsigns01.jpg"/>
+
+        <obj name="S01_REGALAVI"
+			guid="A74C6924450B091E8CC2238FA667E7C3"
+			image="dwag_objects\dwsigns01.jpg"/>
+
+
+
+
+        <obj name="S02_ARCTICFLYERS"
+			guid="966610BB49E6098A362C8CA1CFCD2CEE"
+			image="dwag_objects\dwsigns02.jpg"/>
+
+        <obj name="S02_COMMANDER"
+			guid="B29346064A3EB88B9E39B4B3AF2FD52C"
+			image="dwag_objects\dwsigns02.jpg"/>
+
+        <obj name="S02_DDSUPPLY"
+			guid="55B00D8143F47FA5BEBB5FA080A1561B"
+			image="dwag_objects\dwsigns02.jpg"/>
+
+        <obj name="S02_PILATUS"
+			guid="7936DE0349507269708E2888D63A2B2D"
+			image="dwag_objects\dwsigns02.jpg"/>
+
+        <obj name="S02_TEXACO"
+			guid="324DC88348F04CBF3D52418230B124BE"
+			image="dwag_objects\dwsigns02.jpg"/>
+
+        <obj name="S02_WINGSFLYCLUB"
+			guid="E7B1BADF4115C14A3C0345BD0F45189C"
+			image="dwag_objects\dwsigns02.jpg"/>
+
+        <obj name="S02_XPRESS"
+			guid="A5A239524715FA48DDCC6C8A5620D8F6"
+			image="dwag_objects\dwsigns02.jpg"/>
+
+        
+
+
+
+        <obj name="S03_AZTECJETCENTER"
+			guid="14DDC4A041AAF8B482423986C1D0F6B5"
+			image="dwag_objects\dwsigns03.jpg"/>
+
+        <obj name="S03_ELECFENCE"
+			guid="12F4D25A4CAFB5123EDFA1849110F85D"
+			image="dwag_objects\dwsigns03.jpg"/>
+
+        <obj name="S03_EMERALDAVI"
+			guid="5D7F838D4BF869B5973C85A4FE6FA70A"
+			image="dwag_objects\dwsigns03.jpg"/>
+
+        <obj name="S03_EMPLOYONLY"
+			guid="056E8A964230EF8B57AFDEB686F20D1B"
+			image="dwag_objects\dwsigns03.jpg"/>
+
+        <obj name="S03_RESTROOMS"
+			guid="88C64FDB449AEDF06D585EB5BB75CC6D"
+			image="dwag_objects\dwsigns03.jpg"/>
+
+
+
+
+
+        <obj name="S04_CESSNASTAR"
+			guid="73EC3DA541D40CE7752B90B29AD070EF"
+			image="dwag_objects\dwsigns04.jpg"/>
+
+        <obj name="S04_DANGERNOSMOKE"
+			guid="7AB7083545E1019D3CD608BA905EB1C4"
+			image="dwag_objects\dwsigns04.jpg"/>
+
+        <obj name="S04_DANHOWARD"
+			guid="FB27316245AB7F6C72C8B69C119367C5"
+			image="dwag_objects\dwsigns04.jpg"/>
+
+        <obj name="S04_DOLPHINAVI"
+			guid="E74607094E64C248EF1544AEA502BCBF"
+			image="dwag_objects\dwsigns04.jpg"/>
+
+        <obj name="S04_ELLIOTTAVI"
+			guid="D94ABBCC47A9C21E89873CB6CB57B810"
+			image="dwag_objects\dwsigns04.jpg"/>
+
+
+
+        <obj name="S05_AIRCRAFTLITHO"
+			guid="F52236164A1B6EA914F093A43DD27CA0"
+			image="dwag_objects\dwsigns05.jpg"/>
+
+        <obj name="S05_AVGAS"
+			guid="E061A58F433339B8B71D05953F5827C8"
+			image="dwag_objects\dwsigns05.jpg"/>
+
+        <obj name="S05_BP"
+			guid="E3B3B5554DDE20570E604BB4CC0F6514"
+			image="dwag_objects\dwsigns05.jpg"/>
+
+        <obj name="S05_BUSHAIR"
+			guid="5802452C47651CAD6B9DEAAE5F9298AB"
+			image="dwag_objects\dwsigns05.jpg"/>
+
+        <obj name="S05_CERTFLYERS"
+			guid="6DFB84914CC74CA8F38E5DBF741BF915"
+			image="dwag_objects\dwsigns05.jpg"/>
+
+        <obj name="S05_CHEVRON"
+			guid="88F78CAB449AC365E434C291A6597324"
+			image="dwag_objects\dwsigns05.jpg"/>
+
+        <obj name="S05_DULLESAVI"
+			guid="6E37BB4B40893E97974E338FCE1373B6"
+			image="dwag_objects\dwsigns05.jpg"/>
+
+        <obj name="S05_SKYCHIEF"
+			guid="56913A6D4B2626777AF497A8477CE53E"
+			image="dwag_objects\dwsigns05.jpg"/>
+
+        <obj name="S05_TEXACO"
+			guid="58916A2D40FF203721DC1EA0DBEECAB4"
+			image="dwag_objects\dwsigns05.jpg"/>
+
+
+
+        <obj name="S06_AIRKEYWEST"
+			guid="50DBB3464F2D7E219DF54B8DAA8B24E2"
+			image="dwag_objects\dwsigns06.jpg"/>
+
+        <obj name="S06_MACAVI"
+			guid="896E84E24318777705869BA7173DD0F3"
+			image="dwag_objects\dwsigns06.jpg"/>
+
+        <obj name="S06_SAFETYAUTH"
+			guid="7C9C644F41EFAB633CD0BD9263D4D2BC"
+			image="dwag_objects\dwsigns06.jpg"/>
+
+        <obj name="S06_SIGNALAVI"
+			guid="013E28D344AD8D768FCD4D81AE28B32D"
+			image="dwag_objects\dwsigns06.jpg"/>
+
+        <obj name="S06_SWIFTAVI"
+			guid="0EF7B55945FC4E0207417292D145C49D"
+			image="dwag_objects\dwsigns06.jpg"/>
+
+        <obj name="S06_THUNDBAYAVI"
+			guid="BD493D2B429F16520B6D45B5043FA6AD"
+			image="dwag_objects\dwsigns06.jpg"/>
+
+        <obj name="S06_THUNDERBAY"
+			guid="97B79F46419BEC2062FFCB9361A11A59"
+			image="dwag_objects\dwsigns06.jpg"/>
+
+        <obj name="S06_TUCSON"
+			guid="B8CE44C8439AD76FAA791CB6C601D9CA"
+			image="dwag_objects\dwsigns06.jpg"/>
+
+
+
+        <obj name="S07_ACEAVI"
+			guid="E432F5354221AB6C7B3572883E36BA65"
+			image="dwag_objects\dwsigns07.jpg"/>
+
+
+        <obj name="S07_AIRCHARTBAHAM"
+			guid="475D2DC349930F55779AA3A733F9526A"
+			image="dwag_objects\dwsigns07.jpg"/>
+
+
+        <obj name="S07_AIRPORTHOTELS"
+			guid="F7F3150F4F9DD3312314ED9309F90A74"
+			image="dwag_objects\dwsigns07.jpg"/>
+
+
+        <obj name="S07_AMERICANFLYERS"
+			guid="C6F9EE0644CE04F0A6FCC2BE0B447B40"
+			image="dwag_objects\dwsigns07.jpg"/>
+
+
+        <obj name="S07_ASIJETCENTER"
+			guid="0467BB174AC5747115248E9B9FEFCE20"
+			image="dwag_objects\dwsigns07.jpg"/>
+
+
+        <obj name="S07_AVFUEL"
+			guid="51C591CC4C8EF1658773ADA81C4EE09F"
+			image="dwag_objects\dwsigns07.jpg"/>
+
+
+        <obj name="S07_BODEAVI"
+			guid="2111500B471B59C13728B6B9A61D57C0"
+			image="dwag_objects\dwsigns07.jpg"/>
+
+
+        <obj name="S07_CESSNA"
+			guid="96E6436541875C5FE1CCBF8464D2D40C"
+			image="dwag_objects\dwsigns07.jpg"/>
+
+
+        <obj name="S07_MIDAMERICAJET"
+			guid="DD1352B945FAD7EAE6100A8E0AF409B4"
+			image="dwag_objects\dwsigns07.jpg"/>
+
+
+        <obj name="S07_PIPER"
+			guid="5C7FF94E4F433482E36655ACCC182CD6"
+			image="dwag_objects\dwsigns07.jpg"/>
+
+
+        <obj name="S07_SHELL"
+			guid="6A25B2AF468286160A943AA59831DAE5"
+			image="dwag_objects\dwsigns07.jpg"/>
+
+
+        <obj name="S07_UNIVERSITYAVI"
+			guid="F1CAF4804D57EBB1501E438B91F3B31D"
+			image="dwag_objects\dwsigns07.jpg"/>
+
+
+
+        <obj name="S08_BIKINIAIR"
+			guid="C198964F435F370D715C74B2EC81CB38"
+			image="dwag_objects\dwsigns08.jpg"/>
+
+        <obj name="S08_CAPITOLAIR"
+			guid="273E1B4D48C6A8CAC2B8568D58B0047E"
+			image="dwag_objects\dwsigns08.jpg"/>
+
+        <obj name="S08_CENTRALAIR"
+			guid="C88275FB43FD861F75C73EB39B1AB6F5"
+			image="dwag_objects\dwsigns08.jpg"/>
+
+        <obj name="S08_CESSNACERT"
+			guid="FE545DB0438C72B419F76F986E91D32F"
+			image="dwag_objects\dwsigns08.jpg"/>
+
+        <obj name="S08_CLOUDAIR"
+			guid="8162E78E49C0B7A434134FA8F94EC2EE"
+			image="dwag_objects\dwsigns08.jpg"/>
+
+        <obj name="S08_EAA"
+			guid="2E9FB7244DA80492C1DF06A3AEBE21F2"
+			image="dwag_objects\dwsigns08.jpg"/>
+
+        <obj name="S08_PIPERCUB"
+			guid="2A02A35C42A1B6238407869C0B71A77F"
+			image="dwag_objects\dwsigns08.jpg"/>
+
+        <obj name="S08_SUNAIR"
+			guid="2E12DAF64EF43728EF9DE29BD213EE42"
+			image="dwag_objects\dwsigns08.jpg"/>
+
+        
+
+
+
+        <obj name="S09_CORPAIRSERV"
+			guid="E7243EC04E2932306BE085ACA3E5FF30"
+			image="dwag_objects\dwsigns09.jpg"/>
+
+        <obj name="S09_EAA1"
+			guid="8134EBD24CC60078C133078FFFC4C3BB"
+			image="dwag_objects\dwsigns09.jpg"/>
+
+        <obj name="S09_EAGLEAVISERV"
+			guid="5F7FB5EB43B17750A27CF081530B840E"
+			image="dwag_objects\dwsigns09.jpg"/>
+
+        <obj name="S09_ISLANDFLIGHTSCHOOL"
+			guid="D1679FF74996EA50D377CFA9C96BB89A"
+			image="dwag_objects\dwsigns09.jpg"/>
+
+        <obj name="S09_PHILLIPS66"
+			guid="98DE3C9446D0C1010004AEB5B3ED1C4D"
+			image="dwag_objects\dwsigns09.jpg"/>
+
+
+
+        <obj name="S10_CAUTIONEARPROT1"
+			guid="FBC69AD24A332D7D7E4A0EA5D995B9BF"
+			image="dwag_objects\dwsigns10.jpg"/>
+
+        <obj name="S10_CAUTIONEARPROT"
+			guid="778FEF514782F76D5C39BEAD393E0BB3"
+			image="dwag_objects\dwsigns10.jpg"/>
+
+
+        <obj name="S10_CAUTIONRESTRIC W/POST"
+			guid="16A91819489079EAEBE77D8FA0E81785"
+			image="dwag_objects\dwsigns10.jpg"/>
+
+
+        <obj name="S10_DONOTBLOCK"
+			guid="020CA76F463F3DB7393697AD46D4371F"
+			image="dwag_objects\dwsigns10.jpg"/>
+
+
+        <obj name="S10_FIREEXT"
+			guid="3A212B864758024539CD8681D017583E"
+			image="dwag_objects\dwsigns10.jpg"/>
+
+
+        <obj name="S10_HEARINGREQ1"
+			guid="D77FA9F14F11AB35DC4D5CB8A0F7069D"
+			image="dwag_objects\dwsigns10.jpg"/>
+
+
+        <obj name="S10_HEARINGREQ"
+			guid="9E5F8F8C426EC17749506A89B80FDCB6"
+			image="dwag_objects\dwsigns10.jpg"/>
+
+
+        <obj name="S10_NOTRESPASSING w/post"
+			guid="C6FD580149A805033D44938CCB0BD38D"
+			image="dwag_objects\dwsigns10.jpg"/>
+
+
+        <obj name="S10_TELEPHONE"
+			guid="1EBC2F4744C1D2BA835CF384807F87DD"
+			image="dwag_objects\dwsigns10.jpg"/>
+
+
+        <obj name="S10_VIDEOCAMERA"
+			guid="FE1D48A44434AB2FED37F0882E327DB5"
+			image="dwag_objects\dwsigns10.jpg"/>
+
+
+        <obj name="S10_WARNAUTHPERSON"
+			guid="CECB7DF04076FF2A20A7958A3CC59128"
+			image="dwag_objects\dwsigns10.jpg"/>
+
+
+
+        <obj name="S11_AIRCARGOEXP"
+			guid="22D8E75F46A1F7B7834A709067244341"
+			image="dwag_objects\dwsigns11.jpg"/>
+
+        <obj name="S11_DANGEROXY"
+			guid="0A679DE3420D6A7D3B2A8B83A853C0E6"
+			image="dwag_objects\dwsigns11.jpg"/>
+
+        <obj name="S11_FEDEX"
+			guid="E13F61CE419E14731EB2D0A2D62FAEBF"
+			image="dwag_objects\dwsigns11.jpg"/>
+
+        <obj name="S11_JACKDANIELS"
+			guid="6E30CCBD4424E73BC105B3979F68FEBA"
+			image="dwag_objects\dwsigns11.jpg"/>
+
+        <obj name="S11_LOADUNLOAD"
+			guid="2B014A3048D3B5304FB2BC80CEBBF764"
+			image="dwag_objects\dwsigns11.jpg"/>
+
+        <obj name="S11_SKYSHIP"
+			guid="6C94CB924A647FE9F483108BBD652747"
+			image="dwag_objects\dwsigns11.jpg"/>
+
+
+
+        
+
+        <obj name="S12_COKE1"
+			guid="E03579EB4C4440E48AD11CB1EB69B8DA"
+			image="dwag_objects\dwsigns12.jpg"/>
+
+        <obj name="S12_COKE2"
+			guid="5A60D38E435A7C0213211898716D5693"
+			image="dwag_objects\dwsigns12.jpg"/>
+
+        <obj name="S12_PEPSI1"
+			guid="BD22907946B556E8DC4B5F8347328919"
+			image="dwag_objects\dwsigns12.jpg"/>
+
+        <obj name="S12_PEPSI2"
+			guid="FD99BBF6474E0DD070CBB89D197EF2E6"
+			image="dwag_objects\dwsigns12.jpg"/>
+
+</category>
+</objectsLibrary>	

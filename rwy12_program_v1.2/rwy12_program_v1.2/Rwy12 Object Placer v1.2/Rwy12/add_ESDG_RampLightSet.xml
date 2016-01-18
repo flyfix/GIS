@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="ESDG Hanger Kit - B. Leaming">
+			
+
+	<obj name="Ramp Light Dual"
+			guid="4123CCFEE2E758EECFE69C3FEB3BD355"
+				image="ESDG RampLightSet - Bill Leaming\ESDG RampLightSet.JPG"/>
+	<obj name="Ramp Light Quad"
+			guid="4123CCFEE2E758EECFE69C3FEB3BD356"
+				image="ESDG RampLightSet - Bill Leaming\ESDG RampLightSet.JPG"/>
+	<obj name="Ramp Light Single"
+			guid="4123CCFEE2E758EECFE69C3FEB3BD357"
+				image="ESDG RampLightSet - Bill Leaming\ESDG RampLightSet.JPG"/>
+	<obj name="Small Street Light"
+			guid="4123CCFEE2E758EECFE69C3FEB3BD358"
+				image="ESDG RampLightSet - Bill Leaming\ESDG RampLightSet.JPG"/>
+</category>
+</objectsLibrary>	

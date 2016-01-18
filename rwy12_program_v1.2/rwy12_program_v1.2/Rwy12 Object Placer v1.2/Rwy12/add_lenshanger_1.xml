@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="Lens Hanger 1 - L.J.Hickman">
+			
+
+	
+	<obj name="Bench metal"  
+                                               guid="EC7CAFAB3EB111715963C4519C6B5B77" 
+				image="Lens Hanger 1/Bench_metal.jpg"/>
+	<obj name="Box stack"  
+                                                guid="EC7CAFAB3EB111715963C4519C6B5B78" 
+				image="Lens Hanger 1/Box_stack.jpg"/>
+	<obj name="Bungalow simple"  
+                                                guid="EC7CAFAB3EB111715963C4519C6B5B79" 
+				image="Lens Hanger 1/Bungalow_simple.jpg"/>
+	<obj name="Bungalow simple2" 
+                                                guid="EC7CAFAB3EB111715963C4519C6B5B7A" 
+				image="Lens Hanger 1/Bungalow_simple2.jpg"/>
+	<obj name="Bungalow simple3"  
+                                                guid="EC7CAFAB3EB111715963C4519C6B5B7B" 
+				image="Lens Hanger 1/Bungalow_simple3.jpg"/>
+	<obj name="Factory L1" 
+                                                guid="EC7CAFAB3EB111715963C4519C6B5B7C" 
+				image="Lens Hanger 1/factory_l1.jpg"/>
+	<obj name="Factory L1 Blue" 
+                                                guid="EC7CAFAB3EB111715963C4519C6B5B7D" 
+				image="Lens Hanger 1/factory_l1_blue.jpg"/>
+	<obj name="Hanger L1 Blue" 
+                                               guid="EC7CAFAB3EB111715963C4519C6B5B7E" 
+				image="Lens Hanger 1/hanger_l1_blue.jpg"/>
+	<obj name="Hanger L1 Blue Closed" 
+                                               guid="EC7CAFAB3EB111715963C4519C6B5B7F" 
+				image="Lens Hanger 1/hanger_l1_blue_closed.jpg"/>
+	<obj name="Hanger L1 Red" 
+                                               guid="EC7CAFAB3EB111715963C4519C6B5B80" 
+				image="Lens Hanger 1/hanger_l1_red.jpg"/>
+	<obj name="Hanger L1 Red Open"  
+                                               guid="EC7CAFAB3EB111715963C4519C6B5B81" 
+				image="Lens Hanger 1/hanger_l1_red_open.jpg"/>
+	<obj name="Hanger L2" 
+                                               guid="EC7CAFAB3EB111715963C4519C6B5B82" 
+				image="Lens Hanger 1/Hanger_L2.jpg"/>
+	<obj name="House English 1" 
+                                              guid="EC7CAFAB3EB111715963C4519C6B5B83" 
+				image="Lens Hanger 1/house_english_1.jpg"/>
+	<obj name="Office seat" 
+                                              guid="EC7CAFAB3EB111715963C4519C6B5B84" 
+				image="Lens Hanger 1/Office_seat.jpg"/>
+	<obj name="Skip" 
+                                              guid="EC7CAFAB3EB111715963C4519C6B5B85" 
+				image="Lens Hanger 1/Skip.jpg"/>
+	<obj name="Skip covered"  
+                                              guid="EC7CAFAB3EB111715963C4519C6B5B86" 
+				image="Lens Hanger 1/Skip_covered.jpg"/>
+	<obj name="Skip covered Green"  
+                                              guid="EC7CAFAB3EB111715963C4519C6B5B87" 
+				image="Lens Hanger 1/Skip_covered_green.jpg"/>
+	<obj name="Skip Green" 
+                                              guid="EC7CAFAB3EB111715963C4519C6B5B88" 
+				image="Lens Hanger 1/Skip_green.jpg"/>
+	<obj name="Skip open" 
+                                              guid="EC7CAFAB3EB111715963C4519C6B5B89" 
+				image="Lens Hanger 1/Skip_open.jpg"/>
+	<obj name="Skip open Green"
+                                              guid="EC7CAFAB3EB111715963C4519C6B5B8A" 
+				image="Lens Hanger 1/Skip_open_green.jpg"/>
+	<obj name="Tool chest blue"  
+                                             guid="EC7CAFAB3EB111715963C4519C6B5B8B" 
+				image="Lens Hanger 1/Tool_chest_blue.jpg"/>
+	<obj name="Tool chest red"  
+                                             guid="EC7CAFAB3EB111715963C4519C6B5B8C" 
+				image="Lens Hanger 1/Tool_chest_red.jpg"/>
+	<obj name="Townhall"  
+                                             guid="EC7CAFAB3EB111715963C4519C6B5B8D" 
+				image="Lens Hanger 1/Townhall.jpg"/>
+
+</category>
+</objectsLibrary>	

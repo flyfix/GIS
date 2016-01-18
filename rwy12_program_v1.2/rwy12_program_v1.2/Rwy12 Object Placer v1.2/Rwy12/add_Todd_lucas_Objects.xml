@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="Margarita Air - T Lucas">
+
+	<obj name="3mgate"
+			guid="5DEE41D64190BD866CF06898ADC27CAD"
+			image="Margarita Air - T Lucas\3mgate.jpg"/>	
+	<obj name="4mgate"
+			guid="753631A84540B7FB83616B86DA3B93D8"
+			image="Margarita Air - T Lucas\4mgate.jpg"/>
+	<obj name="7mfence"
+			guid="6616A7B046055953B84430B829DE5ED1"
+			image="Margarita Air - T Lucas\7mfence.jpg"/>
+	<obj name="14mfence"
+			guid="0E8DCA4641EE1C8D2B47C7BCD4D6C04F"
+			image="Margarita Air - T Lucas\14mfence.jpg"/>
+	<obj name="bbq"
+			guid="082B51A54CFD5780B76103B4C5EDF13D"
+			image="Margarita Air - T Lucas\bbq.jpg"/>
+	<obj name="container_grey"
+			guid="F0E0A8C447E4F6FB01F49D8DC69D1A02"
+			image="Margarita Air - T Lucas\container_grey.jpg"/>
+	<obj name="cruise_gmax"
+			guid="C05E5CF14474238D730F7C8B6BE1B092"
+			image="Margarita Air - T Lucas\cruise_gmax.jpg"/>
+	<obj name="franks_tower"
+			guid="C8F078D8426A81FE2ED60B96736A8463"
+			image="Margarita Air - T Lucas\franks_tower.jpg"/>
+	<obj name="repairshed"
+			guid="FFAB64BB49A4057509DE7E9EC1427DB0"
+			image="Margarita Air - T Lucas\repairshed.jpg"/>
+	<obj name="small_repair_shop"
+			guid="CAD02FF945F39C8E46168695EB9FBD1A"
+			image="Margarita Air - T Lucas\small_repair_shop.jpg"/>
+	<obj name="small_terminal"
+			guid="A67A57094E63C45BED47229BECCF1932"
+			image="Margarita Air - T Lucas\small_terminal.jpg"/>
+	<obj name="stair_truck"
+			guid="157DDE6142EF8B2B27A572AF504AC82F"
+			image="Margarita Air - T Lucas\stair_truck.jpg"/>
+	
+	<obj name="t-hangar"
+			guid="99180E0D49A9E577355126858AA04B3D"
+			image="Margarita Air - T Lucas\t-hangar.jpg"/>
+	<obj name="warehouse"
+			guid="AB84AE054E0C7AF666CEBEAD4BE6319D"
+			image="Margarita Air - T Lucas\warehouse.jpg"/>
+
+</category>
+</objectsLibrary>	

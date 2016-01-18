@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="Objects01_lib By S.Legg">
+
+        <obj name="Large Hanger - Single"
+		guid="E755B4A5C51677C1B4F7BE38EE9A2DEB"
+		        image="Objects01_lib by S.Legg\singlehanger.jpg" />
+
+        <obj name="Large Hanger - Double"
+		guid="E755B4A5C51677C1B4F7BE38EE9A2DEC"
+		        image="Objects01_lib by S.Legg\duelhanger.jpg" />
+
+        <obj name="Bus - No Texture"
+		guid="621602D5CB690567AEEBE4235533C691"
+		        image="Objects01_lib by S.Legg\bus.jpg" />
+	
+        <obj name="Caravan01"
+		guid="621602D5CB690567AEEBE4235533C692"
+		        image="Objects01_lib by S.Legg\caravan01.jpg" />
+	
+        <obj name="Caravan02"
+		guid="621602D5CB690567AEEBE4235533C693"
+		        image="Objects01_lib by S.Legg\caravan02.jpg" />
+
+        <obj name="Landrover90 - Green"
+		guid="621602D5CB690567AEEBE4235533C694"
+		        image="Objects01_lib by S.Legg\Lan90green.gif" />
+
+        <obj name="Landrover90 - Red"
+		guid="621602D5CB690567AEEBE4235533C695"
+		        image="Objects01_lib by S.Legg\Lan90red.gif" />
+
+        <obj name="Landrover110 - Green"
+		guid="621602D5CB690567AEEBE4235533C696"
+		        image="Objects01_lib by S.Legg\lan110green.jpg" />
+        
+        <obj name="Landrover110 - Red"
+		guid="621602D5CB690567AEEBE4235533C697"
+		        image="Objects01_lib by S.Legg\lan110red.jpg" />
+
+        <obj name="Cone"
+		guid="621602D5CB690567AEEBE4235533C698"
+		        image="Objects01_lib by S.Legg\cone.jpg" />
+
+        <obj name="Pallets"
+		guid="621602D5CB690567AEEBE4235533C699"
+		        image="Objects01_lib by S.Legg\Pallets.jpg" />
+
+        <obj name="Picnic Table"
+		guid="621602D5CB690567AEEBE4235533C69A"
+		        image="Objects01_lib by S.Legg\Picnic Table.jpg" />
+
+        <obj name="Fuel Pump - By Chris aka (PK1414)"
+		guid="621602D5CB690567AEEBE4235533C69B"
+		        image="Objects01_lib by S.Legg\pump.jpg" />
+
+        <obj name="Industrial Skip"
+		guid="621602D5CB690567AEEBE4235533C69C"
+		        image="Objects01_lib by S.Legg\skip.jpg" />
+
+        <obj name="Tent"
+		guid="621602D5CB690567AEEBE4235533C69D"
+		        image="Objects01_lib by S.Legg\Tent.jpg" />
+
+        <obj name="Tow Caravan"
+		guid="621602D5CB690567AEEBE4235533C69E"
+		        image="Objects01_lib by S.Legg\TowCaravan.jpg" />
+
+        <obj name="13m Trailer - TNT"
+		guid="621602D5CB690567AEEBE4235533C69F"
+		        image="Objects01_lib by S.Legg\trailer01.jpg" />
+
+        <obj name="Tyres - 1"
+		guid="621602D5CB690567AEEBE4235533C6A0"
+		        image="Objects01_lib by S.Legg\tyres1.jpg" />
+
+        <obj name="Tyres - 4"
+		guid="621602D5CB690567AEEBE4235533C6A1"
+		        image="Objects01_lib by S.Legg\tyres4.jpg" />
+
+        <obj name="Tyres - 4 muti"
+		guid="621602D5CB690567AEEBE4235533C6A2"
+		        image="Objects01_lib by S.Legg\tyresmulti.jpg" />
+
+        <obj name="Tyres - 5"
+		guid="621602D5CB690567AEEBE4235533C6A3"
+		        image="Objects01_lib by S.Legg\tyres5.jpg" />
+
+        <obj name="Tyres - Stack Grey"
+		guid="621602D5CB690567AEEBE4235533C6A4"
+		        image="Objects01_lib by S.Legg\tyrestackg.jpg" />
+
+        <obj name="Tyres - Stack Yellow"
+		guid="621602D5CB690567AEEBE4235533C6A5"
+		        image="Objects01_lib by S.Legg\tyrestacky.jpg" />
+
+        <obj name="Vehicle - Vauxhall/Opel Zafira"
+		guid="621602D5CB690567AEEBE4235533C6A6"
+		        image="Objects01_lib by S.Legg\Zafira.jpg" />
+
+        </category>
+</objectsLibrary>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="Lens Hanger 2 - L.J.Hickman">
+			
+
+<obj name="Log Cabin 1"  
+                                             guid="7CB66E26A61A298AB1DEC0695D6850FF" 
+				image="Lens Hanger 2/logcabin.jpg"/>
+<obj name="Log Cabin 2"  
+                                             guid="7CB66E26A61A298AB1DEC0695D685100" 
+				image="Lens Hanger 2/logcabin2.jpg"/>
+<obj name="Mobile Control"  
+                                             guid="7CB66E26A61A298AB1DEC0695D685101" 
+				image="Lens Hanger 2/mobile_tower.jpg"/>
+<obj name="Mobile Control Military1"  
+                                             guid="7CB66E26A61A298AB1DEC0695D685102" 
+				image="Lens Hanger 2/mobile_tower_military.jpg"/>
+<obj name="Sailplane 1"  
+                                             guid="7CB66E26A61A298AB1DEC0695D685103" 
+				image="Lens Hanger 2/sailplane1.jpg"/>
+<obj name="Sailplane 2"  
+                                             guid="7CB66E26A61A298AB1DEC0695D685104" 
+				image="Lens Hanger 2/sailplane2.jpg"/>
+<obj name="Terminal 1"  
+                                             guid="7CB66E26A61A298AB1DEC0695D685105" 
+				image="Lens Hanger 2/term1.jpg"/>
+<obj name="Terminal 2"  
+                                             guid="7CB66E26A61A298AB1DEC0695D685106" 
+				image="Lens Hanger 2/term2.jpg"/>
+<obj name="Terminal 3"  
+                                             guid="7CB66E26A61A298AB1DEC0695D685107" 
+				image="Lens Hanger 2/term3.jpg"/>
+<obj name="Terminal 4"  
+                                             guid="7CB66E26A61A298AB1DEC0695D685108" 
+				image="Lens Hanger 2/term4.jpg"/>
+<obj name="Welcome sign"  
+                                             guid="7CB66E26A61A298AB1DEC0695D685109" 
+				image="Lens Hanger 2/welcome.jpg"/>
+
+</category>
+</objectsLibrary>	

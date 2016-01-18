@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+<category name="JonPatch_objects_1">
+
+	<obj name="17m_pilot_pacific"
+			guid="3930CBBB7D15A2FC6DADC227FEC4124A"
+			image="JonPatch_objects_1\17m_pilot_pacific_JP.jpg"/>
+        
+        <obj name="23m_pilot_pacific"
+			guid="3930CBBB7D15A2FC6DADC227FEC4124B"
+			image="JonPatch_objects_1\23m_pilot_pacific_JP.jpg"/>
+
+	<obj name="bus_pcl"
+			guid="3930CBBB7D15A2FC6DADC227FEC4124C"
+			image="JonPatch_objects_1\bus_PCL_JP.jpg"/>
+        
+        <obj name="flat_bench"
+			guid="3930CBBB7D15A2FC6DADC227FEC4124D"
+			image="JonPatch_objects_1\bench_flat_JP.jpg"/>
+
+	<obj name="food_trailer"
+			guid="3930CBBB7D15A2FC6DADC227FEC4124E"
+			image="JonPatch_objects_1\food_trailer_JP.jpg"/>
+        
+        <obj name="info_kiosk"
+			guid="3930CBBB7D15A2FC6DADC227FEC4124F"
+			image="JonPatch_objects_1\info_kiosk_JP.jpg"/>
+
+	<obj name="park_bench"
+			guid="3930CBBB7D15A2FC6DADC227FEC41250"
+			image="JonPatch_objects_1\park_bench_JP.jpg"/>
+        
+        <obj name="school_bus_JP"
+			guid="3930CBBB7D15A2FC6DADC227FEC41251"
+			image="JonPatch_objects_1\school_bus.jpg"/>
+
+	<obj name="security_booth"
+			guid="3930CBBB7D15A2FC6DADC227FEC41252"
+			image="JonPatch_objects_1\security_booth_JP.jpg"/>
+        
+        <obj name="tree_planter_concrete"
+			guid="3930CBBB7D15A2FC6DADC227FEC41253"
+			image="JonPatch_objects_1\tree_planter_concrete_JP.jpg"/>
+
+        
+
+</category>
+</objectsLibrary>	

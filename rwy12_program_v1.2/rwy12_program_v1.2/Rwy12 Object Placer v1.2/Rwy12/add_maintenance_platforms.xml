@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<objectsLibrary>
+   <category name="Maintenance Platforms - C Ford">
+
+	<obj name="Maintenance Platform - 4 Foot Height"
+			guid="3CD77D81464F96AEC7FC8E987B826AEC"
+			image="Maintenance Platforms\Platform-4Ft.jpg"/>
+	
+	<obj name="Maintenance Platform - 8 Foot Height"
+			guid="2E7148D1456BBC5FF2BB0EB9864CF427"
+			image="Maintenance Platforms\Platform-8Ft.jpg"/>
+	
+	<obj name="Maintenance Platform - Square 16 Foot Height"
+			guid="FA52E9DB4DD3A0A4A762C08A6A1EB54B"
+			image="Maintenance Platforms\Platform1-16Ft.jpg"/>
+	
+	<obj name="Maintenance Platform - Narrow 16 Foot Height"
+			guid="0E7C554442727121E40BC3BCC7761573"
+			image="Maintenance Platforms\Platform2-16Ft.jpg"/>
+	
+	<obj name="Maintenance Platform - Square 25 Foot Height"
+			guid="B405433247F5C89317341F82E95B65E1"
+			image="Maintenance Platforms\Platform1-25Ft.jpg"/>
+	
+	<obj name="Maintenance Platform - Narrow 25 Foot Height"
+			guid="566E102542A80A95D12749B63A13000C"
+			image="Maintenance Platforms\Platform2-25Ft.jpg"/>
+   </category>
+</objectsLibrary>
+
+
+
+
+
+
+
